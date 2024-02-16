@@ -17,9 +17,9 @@ jobs:
       #   run: npx update-my-badges ${{github.repository_owner}}
       #   env:
       #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - run: cat README.md
       - run: sed -i '/<h4>.*My Badges/d' README.md
       - run: |
+          git fetch -1
           git pull
           git rev-parse HEAD
           git add README.md
@@ -27,7 +27,7 @@ jobs:
           then
             git -c user.name='github-actions[bot]' \
                 -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
-              commit --amend --no-edit
+              commit 
             git push --force-with-lease origin
           fi
            
