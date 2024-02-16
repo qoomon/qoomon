@@ -19,7 +19,7 @@ jobs:
       #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: sed -i '/<h4>.*My Badges/d' README.md
       - run: |
-          git fetch -1
+          git fetch --depth 2
           git pull
           git rev-parse HEAD
           git add README.md
