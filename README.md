@@ -84,7 +84,7 @@
   <a href="https://github-profile-trophy.vercel.app/?username=qoomon">
     <img height="64" src="octocat.gif">
   </a>
-  <br><br>
+  <br>
 </div>
 
 ## 
