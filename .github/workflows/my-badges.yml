@@ -27,7 +27,7 @@ jobs:
           then
             git -c user.name='github-actions[bot]' \
                 -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
-              commit 
+              commit --amend --no-edit
             git push --force-with-lease origin
           fi
            
