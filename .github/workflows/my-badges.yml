@@ -18,8 +18,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 2
       - name: Remove My Badges Header
         run: |
           sed -i '/<h4>.*My Badges.*<\/h4>/d' README.md
@@ -28,7 +26,7 @@ jobs:
           then
             git -c user.name='github-actions[bot]' \
                 -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
-              commit --amend --no-edit
-            git push --force-with-lease origin
+              commit
+            git push
           fi
            
