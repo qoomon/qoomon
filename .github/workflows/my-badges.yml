@@ -15,18 +15,4 @@ jobs:
       - name: Update My Badges
         run: npx update-my-badges ${{github.repository_owner}}
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - uses: actions/checkout@v4
-      - name: Remove My Badges Header
-        run: |
-          sed -i '/<h4>.*My Badges.*<\/h4>/d' README.md
-          git add README.md
-          if [ "$(git diff --cached)" ]
-          then
-            git -c user.name='github-actions[bot]' \
-                -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
-              commit
-            git push
-          fi
-           
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}           
