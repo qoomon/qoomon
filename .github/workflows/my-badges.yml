@@ -13,18 +13,16 @@ jobs:
       # - uses: my-badges/my-badges@master
       #   with:
       #     dryrun: true
-      # - name: Update My Badges
-      #   run: npx update-my-badges ${{github.repository_owner}}
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update My Badges
+        run: npx update-my-badges ${{github.repository_owner}}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: sed -i '/<h4>.*My Badges.*<\/h4>/d' README.md
       - run: |
-          git fetch --depth 2
-          git pull
-          git rev-parse HEAD
           git add README.md
           if [ "$(git diff --cached)" ]
           then
+            git fetch --depth 2
             git -c user.name='github-actions[bot]' \
                 -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
               commit --amend --no-edit
