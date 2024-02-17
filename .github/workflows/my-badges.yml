@@ -17,8 +17,9 @@ jobs:
         run: npx update-my-badges ${{github.repository_owner}}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - run: sed -i '/<h4>.*My Badges.*<\/h4>/d' README.md
-      - run: |
+      - name: Remove My Badges Header
+        run: |
+          sed -i '/<h4>.*My Badges.*<\/h4>/d' README.md
           git add README.md
           if [ "$(git diff --cached)" ]
           then
