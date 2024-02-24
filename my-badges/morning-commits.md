@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/qoomon/yolo-secret/commit/9845d3d334afe748b0e77077377df841535c88c7">9845d3d</a>
-- <a href="https://github.com/qoomon/yolo-secret/commit/1eca07e74b10118e678e7871462db74967476625">1eca07e</a>
-- <a href="https://github.com/qoomon/yolo-secret/commit/bca3aff5f005049fa41823db3802c0173306cc05">bca3aff</a>
-- <a href="https://github.com/qoomon/yolo-secret/commit/9b5f7b2446063b8f12294e32f52343a7307f57a2">9b5f7b2</a>
-- <a href="https://github.com/qoomon/website/commit/bd5e8c87f71378be6918d066bb281fc1072bd4f7">bd5e8c8</a>
-- <a href="https://github.com/qoomon/maven-git-versioning-extension/commit/904a82ab71f749b2b4d29292eeaf9e20bbcc8dbf">904a82a</a>
+- <a href="https://github.com/qoomon/gradle-git-versioning-plugin/commit/b860b2e6a2d1c2b9c82376efbafc1b07a2708a82">b860b2e</a>
+- <a href="https://github.com/qoomon/gradle-git-versioning-plugin/commit/14afe91d1d4e46c690894c35abcc9e6582853702">14afe91</a>
+- <a href="https://github.com/qoomon/gradle-git-versioning-plugin/commit/163c1dba60f99b94b04c7f72ebaa153d5cd54576">163c1db</a>
+- <a href="https://github.com/qoomon/gradle-git-versioning-plugin/commit/b3616f08d3f28d4dc3e57841e7e14e59b24b8a5d">b3616f0</a>
+- <a href="https://github.com/qoomon/gradle-git-versioning-plugin/commit/650ba9c326d017851f1037294471ae0bae902abb">650ba9c</a>
+- <a href="https://github.com/qoomon/gradle-git-versioning-plugin/commit/8768892b1fa4ac1bd86fdae180b4eab58e943cc0">8768892</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
