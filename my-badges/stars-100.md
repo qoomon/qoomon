@@ -16,7 +16,7 @@ Repos:
 * <a href="https://github.com/qoomon/yolo-secret">qoomon/yolo-secret: ★3</a>
 * <a href="https://github.com/qoomon/qoomon">qoomon/qoomon: ★3</a>
 * <a href="https://github.com/qoomon/meeting-cash-creep">qoomon/meeting-cash-creep: ★3</a>
-* <a href="https://github.com/qoomon/actions-publish-to-github-pages">qoomon/actions-publish-to-github-pages: ★3</a>
+* <a href="https://github.com/qoomon/actions--publish-to-github-pages">qoomon/actions--publish-to-github-pages: ★3</a>
 * <a href="https://github.com/qoomon/zsh-theme-qoomon">qoomon/zsh-theme-qoomon: ★2</a>
 * <a href="https://github.com/qoomon/zsh-history-search">qoomon/zsh-history-search: ★2</a>
 * <a href="https://github.com/qoomon/userscript-jira-dependency-indicators">qoomon/userscript-jira-dependency-indicators: ★2</a>

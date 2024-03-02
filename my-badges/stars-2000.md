@@ -4,17 +4,17 @@
 
 Repos:
 
-* <a href="https://github.com/qoomon/docker-host">qoomon/docker-host: ★1059</a>
+* <a href="https://github.com/qoomon/docker-host">qoomon/docker-host: ★1060</a>
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★288</a>
 * <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★279</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★214</a>
-* <a href="https://github.com/qoomon/aws-ssm-ec2-proxy-command">qoomon/aws-ssm-ec2-proxy-command: ★198</a>
+* <a href="https://github.com/qoomon/aws-ssm-ec2-proxy-command">qoomon/aws-ssm-ec2-proxy-command: ★199</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★113</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★98</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★91</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★33</a>
-* <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★30</a>
+* <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★31</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★29</a>
 * <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★19</a>
 * <a href="https://github.com/qoomon/github-actions-access-manager">qoomon/github-actions-access-manager: ★13</a>
@@ -30,7 +30,7 @@ Repos:
 * <a href="https://github.com/qoomon/yolo-secret">qoomon/yolo-secret: ★3</a>
 * <a href="https://github.com/qoomon/qoomon">qoomon/qoomon: ★3</a>
 * <a href="https://github.com/qoomon/meeting-cash-creep">qoomon/meeting-cash-creep: ★3</a>
-* <a href="https://github.com/qoomon/actions-publish-to-github-pages">qoomon/actions-publish-to-github-pages: ★3</a>
+* <a href="https://github.com/qoomon/actions--publish-to-github-pages">qoomon/actions--publish-to-github-pages: ★3</a>
 * <a href="https://github.com/qoomon/zsh-theme-qoomon">qoomon/zsh-theme-qoomon: ★2</a>
 * <a href="https://github.com/qoomon/zsh-history-search">qoomon/zsh-history-search: ★2</a>
 * <a href="https://github.com/qoomon/userscript-jira-dependency-indicators">qoomon/userscript-jira-dependency-indicators: ★2</a>
