@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/qoomon/gson-type-adapter/commit/36eaff3ed83cbf68aa0f1e2edc5e4d1951b47435">36eaff3</a>: chore: update maven-enforcer-plugin version
+- <a href="https://github.com/qoomon/actions--commit/commit/df1c25a488785aab01fd140997e84ecc816d4092">df1c25a</a>: chore: add github action to build and release action
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

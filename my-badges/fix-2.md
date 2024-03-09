@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/qoomon/gson-type-adapter/commit/ee65657ef7d96249fe3209e23c1f6f7b9ffaef1e">ee65657</a>: fix: dependencies for java 1.7
-- <a href="https://github.com/qoomon/gson-type-adapter/commit/f5fa4ad95e8bb24962ba4b2a943454e9800a78fc">f5fa4ad</a>: fix: formatting
+- <a href="https://github.com/qoomon/actions--commit/commit/1e3dd067dc79eae090b79af4114233e8ddf2af26">1e3dd06</a>: fix: remove unintended logging
+- <a href="https://github.com/qoomon/actions--commit/commit/a7eea389c9ee82ec8dbd286097ad24ef1b65d4e9">a7eea38</a>: fix: considre remote name when pushing
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
