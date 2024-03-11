@@ -6,7 +6,7 @@ Repos:
 
 * <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★10</a>
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★10</a>
-* <a href="https://github.com/qoomon/unchecked-exceptions-java">qoomon/unchecked-exceptions-java: ★8</a>
+* <a href="https://github.com/qoomon/unchecked-exceptions-java">qoomon/unchecked-exceptions-java: ★9</a>
 * <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★6</a>
 * <a href="https://github.com/qoomon/aws-session">qoomon/aws-session: ★6</a>
 * <a href="https://github.com/qoomon/vercel-cors-proxy">qoomon/vercel-cors-proxy: ★4</a>
