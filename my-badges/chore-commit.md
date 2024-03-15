@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/qoomon/actions--commit/commit/df1c25a488785aab01fd140997e84ecc816d4092">df1c25a</a>: chore: add github action to build and release action
+- <a href="https://github.com/qoomon/actions--sign-commit/commit/df1c25a488785aab01fd140997e84ecc816d4092">df1c25a</a>: chore: add github action to build and release action
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
