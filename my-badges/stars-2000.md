@@ -8,7 +8,7 @@ Repos:
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★290</a>
 * <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★288</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★219</a>
-* <a href="https://github.com/qoomon/aws-ssm-ec2-proxy-command">qoomon/aws-ssm-ec2-proxy-command: ★202</a>
+* <a href="https://github.com/qoomon/aws-ssm-ec2-proxy-command">qoomon/aws-ssm-ec2-proxy-command: ★203</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★117</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★99</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★92</a>
@@ -56,6 +56,7 @@ Repos:
 * <a href="https://github.com/qoomon/chrome-search-engine-blocker-extension">qoomon/chrome-search-engine-blocker-extension: ★1</a>
 * <a href="https://github.com/qoomon/chrome-new-tab-extension">qoomon/chrome-new-tab-extension: ★1</a>
 * <a href="https://github.com/qoomon/cdn">qoomon/cdn: ★1</a>
+* <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★1</a>
 * <a href="https://github.com/qoomon/.github">qoomon/.github: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>

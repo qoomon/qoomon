@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★10</a>
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★10</a>
 * <a href="https://github.com/qoomon/unchecked-exceptions-java">qoomon/unchecked-exceptions-java: ★9</a>
 * <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★6</a>
@@ -42,6 +41,7 @@ Repos:
 * <a href="https://github.com/qoomon/chrome-search-engine-blocker-extension">qoomon/chrome-search-engine-blocker-extension: ★1</a>
 * <a href="https://github.com/qoomon/chrome-new-tab-extension">qoomon/chrome-new-tab-extension: ★1</a>
 * <a href="https://github.com/qoomon/cdn">qoomon/cdn: ★1</a>
+* <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★1</a>
 * <a href="https://github.com/qoomon/.github">qoomon/.github: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>

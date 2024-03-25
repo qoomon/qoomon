@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/qoomon/actions--create-commit/commit/b29d36a1757b1dba7bfd54528ba8c172cb973c90">b29d36a</a>: chore: add local run script
+- <a href="https://github.com/qoomon/actions--create-tag/commit/4931debfca8d776f94471b4462800e5769d15b43">4931deb</a>: chore: add local run script
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

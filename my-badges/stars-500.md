@@ -51,6 +51,7 @@ Repos:
 * <a href="https://github.com/qoomon/chrome-search-engine-blocker-extension">qoomon/chrome-search-engine-blocker-extension: ★1</a>
 * <a href="https://github.com/qoomon/chrome-new-tab-extension">qoomon/chrome-new-tab-extension: ★1</a>
 * <a href="https://github.com/qoomon/cdn">qoomon/cdn: ★1</a>
+* <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★1</a>
 * <a href="https://github.com/qoomon/.github">qoomon/.github: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
