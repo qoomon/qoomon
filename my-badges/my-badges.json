@@ -73,7 +73,7 @@
     "id": "my-badges-contributor",
     "tier": 0,
     "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/47\">#47</a>",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/47\">#47</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/54\">#54</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true"
   },
   {
@@ -145,5 +145,12 @@
     "desc": "I am a sleepy coder.",
     "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/9845d3d334afe748b0e77077377df841535c88c7\">9845d3d</a>\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/1eca07e74b10118e678e7871462db74967476625\">1eca07e</a>\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/bca3aff5f005049fa41823db3802c0173306cc05\">bca3aff</a>\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/9b5f7b2446063b8f12294e32f52343a7307f57a2\">9b5f7b2</a>\n- <a href=\"https://github.com/qoomon/website/commit/bd5e8c87f71378be6918d066bb281fc1072bd4f7\">bd5e8c8</a>\n- <a href=\"https://github.com/qoomon/maven-git-versioning-extension/commit/904a82ab71f749b2b4d29292eeaf9e20bbcc8dbf\">904a82a</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/actions--create-commit/commit/57454ba3fce7812e1708e9c73fe64f7ace0058de\">57454ba</a>\n- <a href=\"https://github.com/qoomon/actions--create-tag/commit/663af778725853080d32c2c3fed580b88377e555\">663af77</a>\n- <a href=\"https://github.com/qoomon/actions--template/commit/b176ed646e73dd477acb0b3cda2161fe307e1b8a\">b176ed6</a>\n- <a href=\"https://github.com/qoomon/actions--create-commit/commit/8e2cb3aa72c8e150d7abe114917813c4716264ee\">8e2cb3a</a>\n- <a href=\"https://github.com/qoomon/git-conventional-commits/commit/756d5e757ad8a91c07b75f22cd8ec6fcbcfd0a3d\">756d5e7</a>\n- <a href=\"https://github.com/qoomon/git-conventional-commits/commit/de5451e0d63286a57d0f6ecdb88470fee9333a29\">de5451e</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/cosmetic-commit/cosmetic-commit.png?raw=true"
   }
 ]
