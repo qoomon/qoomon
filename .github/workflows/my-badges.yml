@@ -9,10 +9,7 @@ jobs:
   my-badges:
     runs-on: ubuntu-latest
     steps:
-      # - uses: my-badges/my-badges@master
-      #   with:
-      #     dryrun: true
       - name: Update My Badges
-        run: npx update-my-badges ${{github.repository_owner}} --compact
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}           
+        uses: my-badges/my-badges@master
+        with:
+          compact: true    
