@@ -5,15 +5,15 @@
 Repos:
 
 * <a href="https://github.com/qoomon/docker-host">qoomon/docker-host: ★1066</a>
-* <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★290</a>
+* <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★289</a>
 * <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★288</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★219</a>
 * <a href="https://github.com/qoomon/aws-ssm-ec2-proxy-command">qoomon/aws-ssm-ec2-proxy-command: ★203</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★118</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★102</a>
-* <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★92</a>
+* <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★90</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
-* <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★34</a>
+* <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★33</a>
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★31</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★30</a>
 * <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★19</a>
@@ -23,7 +23,7 @@ Repos:
 * <a href="https://github.com/qoomon/unchecked-exceptions-java">qoomon/unchecked-exceptions-java: ★9</a>
 * <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★6</a>
 * <a href="https://github.com/qoomon/aws-session">qoomon/aws-session: ★6</a>
-* <a href="https://github.com/qoomon/vercel-cors-proxy">qoomon/vercel-cors-proxy: ★4</a>
+* <a href="https://github.com/qoomon/vercel-cors-proxy">qoomon/vercel-cors-proxy: ★5</a>
 * <a href="https://github.com/qoomon/userscripts--kleinanzeigen-duplicate-ad">qoomon/userscripts--kleinanzeigen-duplicate-ad: ★4</a>
 * <a href="https://github.com/qoomon/chrome-tab-multiselect-extension">qoomon/chrome-tab-multiselect-extension: ★4</a>
 * <a href="https://github.com/qoomon/aws-ec2-ssh-iam">qoomon/aws-ec2-ssh-iam: ★4</a>
