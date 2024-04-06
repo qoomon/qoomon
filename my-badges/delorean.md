@@ -6,7 +6,6 @@ Commits:
 
 - <a href="https://github.com/qoomon/maven-git-versioning-extension/commit/83a015ef0b66dbfc4f0beaddb1b723a321353e0e">83a015e</a>
 - <a href="https://github.com/qoomon/maven-git-versioning-extension/commit/7a8cbc5ab1f0e01bcdadb1d796129425802f5b9b">7a8cbc5</a>
-- <a href="https://github.com/qoomon/dashtiles/commit/c6b010e2c9fa37bc5e453ba8262a44c4dea7665f">c6b010e</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
