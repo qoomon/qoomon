@@ -4,10 +4,10 @@
 
 Repos:
 
-* <a href="https://github.com/qoomon/docker-host">qoomon/docker-host: ★1066</a>
+* <a href="https://github.com/qoomon/docker-host">qoomon/docker-host: ★1067</a>
 * <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★292</a>
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★291</a>
-* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★220</a>
+* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★221</a>
 * <a href="https://github.com/qoomon/aws-ssm-ec2-proxy-command">qoomon/aws-ssm-ec2-proxy-command: ★204</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★119</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★104</a>
@@ -40,6 +40,7 @@ Repos:
 * <a href="https://github.com/qoomon/maven-enforcer-rules">qoomon/maven-enforcer-rules: ★2</a>
 * <a href="https://github.com/qoomon/kotlin-examples">qoomon/kotlin-examples: ★2</a>
 * <a href="https://github.com/qoomon/junit-extension">qoomon/junit-extension: ★2</a>
+* <a href="https://github.com/qoomon/insomnia-plugin-hide-login">qoomon/insomnia-plugin-hide-login: ★2</a>
 * <a href="https://github.com/qoomon/domain-value-java">qoomon/domain-value-java: ★2</a>
 * <a href="https://github.com/qoomon/chrome-tab-toggle-extension">qoomon/chrome-tab-toggle-extension: ★2</a>
 * <a href="https://github.com/qoomon/chrome-tab-shift-extension">qoomon/chrome-tab-shift-extension: ★2</a>
@@ -49,7 +50,6 @@ Repos:
 * <a href="https://github.com/qoomon/userscripts--disable-open-search">qoomon/userscripts--disable-open-search: ★1</a>
 * <a href="https://github.com/qoomon/self-signed-https-proxy">qoomon/self-signed-https-proxy: ★1</a>
 * <a href="https://github.com/qoomon/passphrase-generator">qoomon/passphrase-generator: ★1</a>
-* <a href="https://github.com/qoomon/insomnia-plugin-hide-login">qoomon/insomnia-plugin-hide-login: ★1</a>
 * <a href="https://github.com/qoomon/google-chrome-launcher">qoomon/google-chrome-launcher: ★1</a>
 * <a href="https://github.com/qoomon/diceware-webapp">qoomon/diceware-webapp: ★1</a>
 * <a href="https://github.com/qoomon/chrome-tab-duplicate-extension">qoomon/chrome-tab-duplicate-extension: ★1</a>
