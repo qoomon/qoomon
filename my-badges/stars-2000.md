@@ -50,6 +50,7 @@ Repos:
 * <a href="https://github.com/qoomon/userscripts--disable-open-search">qoomon/userscripts--disable-open-search: ★1</a>
 * <a href="https://github.com/qoomon/self-signed-https-proxy">qoomon/self-signed-https-proxy: ★1</a>
 * <a href="https://github.com/qoomon/passphrase-generator">qoomon/passphrase-generator: ★1</a>
+* <a href="https://github.com/qoomon/hono">qoomon/hono: ★1</a>
 * <a href="https://github.com/qoomon/google-chrome-launcher">qoomon/google-chrome-launcher: ★1</a>
 * <a href="https://github.com/qoomon/diceware-webapp">qoomon/diceware-webapp: ★1</a>
 * <a href="https://github.com/qoomon/chrome-tab-duplicate-extension">qoomon/chrome-tab-duplicate-extension: ★1</a>
