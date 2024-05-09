@@ -5,13 +5,13 @@
 Repos:
 
 * <a href="https://github.com/qoomon/docker-host">qoomon/docker-host: ★1071</a>
-* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★309</a>
+* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★310</a>
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★292</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★226</a>
 * <a href="https://github.com/qoomon/aws-ssm-ec2-proxy-command">qoomon/aws-ssm-ec2-proxy-command: ★209</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★123</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★104</a>
-* <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★92</a>
+* <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★93</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★36</a>
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★32</a>
@@ -50,7 +50,6 @@ Repos:
 * <a href="https://github.com/qoomon/userscripts--disable-open-search">qoomon/userscripts--disable-open-search: ★1</a>
 * <a href="https://github.com/qoomon/self-signed-https-proxy">qoomon/self-signed-https-proxy: ★1</a>
 * <a href="https://github.com/qoomon/passphrase-generator">qoomon/passphrase-generator: ★1</a>
-* <a href="https://github.com/qoomon/hono">qoomon/hono: ★1</a>
 * <a href="https://github.com/qoomon/google-chrome-launcher">qoomon/google-chrome-launcher: ★1</a>
 * <a href="https://github.com/qoomon/diceware-webapp">qoomon/diceware-webapp: ★1</a>
 * <a href="https://github.com/qoomon/chrome-tab-duplicate-extension">qoomon/chrome-tab-duplicate-extension: ★1</a>
