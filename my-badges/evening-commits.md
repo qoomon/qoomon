@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/qoomon/otp-authenticator-webapp/commit/f024cd96b83dbe1f22db48b1dd1b4d651310d648">f024cd9</a>
+- <a href="https://github.com/qoomon/otp-authenticator-webapp/commit/0795005689b0844a5dd81c2f8d580aa306fd2001">0795005</a>
 - <a href="https://github.com/qoomon/maven-git-versioning-extension/commit/629e5662c80a7b60d997d99e7f4c0f537d01aad1">629e566</a>
 - <a href="https://github.com/qoomon/maven-git-versioning-extension/commit/e8cca242472b5b20a9109e36449c52fdd11b15e0">e8cca24</a>
 - <a href="https://github.com/qoomon/actions--create-commit/commit/1335f5783020df726e649169da3a36a0cfd29fa7">1335f57</a>
 - <a href="https://github.com/qoomon/actions--create-tag/commit/5786b5fcd1436b5a2662f04769914c9fb7868734">5786b5f</a>
-- <a href="https://github.com/qoomon/actions--create-commit/commit/2aaff989f2e51ebd1459c9daa123fb6d4881d94c">2aaff98</a>
-- <a href="https://github.com/qoomon/actions--create-commit/commit/4c1c8617089a358f8b78a0fbdfd0f3ecdafa6056">4c1c861</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
