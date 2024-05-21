@@ -18,10 +18,10 @@ Repos:
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★31</a>
 * <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★19</a>
 * <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★13</a>
+* <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★11</a>
 * <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★10</a>
-* <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★10</a>
 * <a href="https://github.com/qoomon/unchecked-exceptions-java">qoomon/unchecked-exceptions-java: ★9</a>
-* <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★7</a>
+* <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★8</a>
 * <a href="https://github.com/qoomon/aws-session">qoomon/aws-session: ★6</a>
 * <a href="https://github.com/qoomon/vercel-cors-proxy">qoomon/vercel-cors-proxy: ★5</a>
 * <a href="https://github.com/qoomon/userscripts--kleinanzeigen-duplicate-ad">qoomon/userscripts--kleinanzeigen-duplicate-ad: ★4</a>
