@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/qoomon/docker-host">qoomon/docker-host: ★1073</a>
-* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★316</a>
+* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★317</a>
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★292</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★229</a>
 * <a href="https://github.com/qoomon/aws-ssm-ec2-proxy-command">qoomon/aws-ssm-ec2-proxy-command: ★210</a>
@@ -17,7 +17,7 @@ Repos:
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★35</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★33</a>
 * <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★20</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★14</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★16</a>
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★11</a>
 * <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★10</a>
 * <a href="https://github.com/qoomon/unchecked-exceptions-java">qoomon/unchecked-exceptions-java: ★9</a>
