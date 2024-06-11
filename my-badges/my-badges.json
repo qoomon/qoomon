@@ -17,14 +17,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/banking-swift-messages-java/commit/903c0c3a163d58b349ac60178aa5badf2b7cd7d5\">903c0c3</a>\n- <a href=\"https://github.com/qoomon/actions--template/commit/ae823edb04f89e0444be9dd0dd41195f2032a82b\">ae823ed</a>\n- <a href=\"https://github.com/qoomon/actions--template/commit/e2331eea232a0927db8eefabcecf2f4590ad9273\">e2331ee</a>\n- <a href=\"https://github.com/qoomon/gradle-git-versioning-plugin/commit/b860b2e6a2d1c2b9c82376efbafc1b07a2708a82\">b860b2e</a>\n- <a href=\"https://github.com/qoomon/gradle-git-versioning-plugin/commit/14afe91d1d4e46c690894c35abcc9e6582853702\">14afe91</a>\n- <a href=\"https://github.com/qoomon/gradle-git-versioning-plugin/commit/163c1dba60f99b94b04c7f72ebaa153d5cd54576\">163c1db</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/65c12ecfc3495e7cb2970d810e328c4de080027d\">65c12ec</a>\n- <a href=\"https://github.com/qoomon/banking-swift-messages-java/commit/903c0c3a163d58b349ac60178aa5badf2b7cd7d5\">903c0c3</a>\n- <a href=\"https://github.com/qoomon/actions--template/commit/ae823edb04f89e0444be9dd0dd41195f2032a82b\">ae823ed</a>\n- <a href=\"https://github.com/qoomon/actions--template/commit/e2331eea232a0927db8eefabcecf2f4590ad9273\">e2331ee</a>\n- <a href=\"https://github.com/qoomon/gradle-git-versioning-plugin/commit/b860b2e6a2d1c2b9c82376efbafc1b07a2708a82\">b860b2e</a>\n- <a href=\"https://github.com/qoomon/gradle-git-versioning-plugin/commit/14afe91d1d4e46c690894c35abcc9e6582853702\">14afe91</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/otp-authenticator-webapp/commit/f024cd96b83dbe1f22db48b1dd1b4d651310d648\">f024cd9</a>\n- <a href=\"https://github.com/qoomon/otp-authenticator-webapp/commit/0795005689b0844a5dd81c2f8d580aa306fd2001\">0795005</a>\n- <a href=\"https://github.com/qoomon/maven-git-versioning-extension/commit/629e5662c80a7b60d997d99e7f4c0f537d01aad1\">629e566</a>\n- <a href=\"https://github.com/qoomon/maven-git-versioning-extension/commit/e8cca242472b5b20a9109e36449c52fdd11b15e0\">e8cca24</a>\n- <a href=\"https://github.com/qoomon/actions--create-commit/commit/1335f5783020df726e649169da3a36a0cfd29fa7\">1335f57</a>\n- <a href=\"https://github.com/qoomon/actions--create-tag/commit/5786b5fcd1436b5a2662f04769914c9fb7868734\">5786b5f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/actions--access-token/commit/afccf83cae509f1218226ad27e48d6cc2b49897a\">afccf83</a>\n- <a href=\"https://github.com/qoomon/otp-authenticator-webapp/commit/f024cd96b83dbe1f22db48b1dd1b4d651310d648\">f024cd9</a>\n- <a href=\"https://github.com/qoomon/otp-authenticator-webapp/commit/0795005689b0844a5dd81c2f8d580aa306fd2001\">0795005</a>\n- <a href=\"https://github.com/qoomon/maven-git-versioning-extension/commit/629e5662c80a7b60d997d99e7f4c0f537d01aad1\">629e566</a>\n- <a href=\"https://github.com/qoomon/maven-git-versioning-extension/commit/e8cca242472b5b20a9109e36449c52fdd11b15e0\">e8cca24</a>\n- <a href=\"https://github.com/qoomon/actions--create-commit/commit/1335f5783020df726e649169da3a36a0cfd29fa7\">1335f57</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -129,7 +129,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 2410 times)\n2. from (used 1079 times)\n3. readme.md (used 1065 times)\n4. to (used 872 times)\n5. bump (used 696 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 2414 times)\n2. from (used 1082 times)\n3. readme.md (used 1067 times)\n4. to (used 874 times)\n5. bump (used 698 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
