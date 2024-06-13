@@ -13,11 +13,11 @@ Repos:
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★107</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★95</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
-* <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★36</a>
+* <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★37</a>
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★35</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★33</a>
-* <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★21</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★19</a>
+* <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★22</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★20</a>
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★11</a>
 * <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★10</a>
 * <a href="https://github.com/qoomon/unchecked-exceptions-java">qoomon/unchecked-exceptions-java: ★9</a>
