@@ -79,12 +79,6 @@
       <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Reviews">
     </picture>
   </a>
-
-  <br><br>
-  <a href="https://github-profile-trophy.vercel.app/?username=qoomon">
-    <img height="64" src="octocat.gif">
-  </a>
-  <br>
 </div>
 
 ## 
@@ -117,5 +111,26 @@
 <a href="my-badges/cosmetic-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/cosmetic-commit/cosmetic-commit.png?raw=true" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <!-- my-badges end -->
 
+</div>
+
+##
+<br>
+
+<div align="center">  
+  <a href="https://github-profile-trophy.vercel.app/?username=qoomon">
+    <img height="64" src="octocat.gif">
+  </a>
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=git-conventional-commits&theme=github_dark">
+    <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=git-conventional-commits&theme=default_repocard">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/gist?id=5dfcdf8eec66a051ecd85625518cfd13&theme=github_dark">
+    <img alt="" src="https://github-readme-stats.vercel.app/api/gist?id=5dfcdf8eec66a051ecd85625518cfd13&theme=default_repocard">
+  </picture>
+  
 </div>
 
