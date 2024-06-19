@@ -123,12 +123,12 @@
   <br><br>
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=git-conventional-commits&theme=github_dark">
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=git-conventional-commits&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e">
     <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=git-conventional-commits&theme=default_repocard">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/gist?id=5dfcdf8eec66a051ecd85625518cfd13&theme=github_dark">
+      srcset="https://github-readme-stats.vercel.app/api/gist?id=5dfcdf8eec66a051ecd85625518cfd13&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e">
     <img alt="" src="https://github-readme-stats.vercel.app/api/gist?id=5dfcdf8eec66a051ecd85625518cfd13&theme=default_repocard">
   </picture>
   
