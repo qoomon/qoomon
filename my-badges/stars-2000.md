@@ -1,4 +1,4 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-2000.png?raw=true" alt="I collected 2000 stars." title="I collected 2000 stars." width="128">
+<img src="https://github.com/my-badges/my-badges/blob/master/badges/stars/stars-2000.png?raw=true" alt="I collected 2000 stars." title="I collected 2000 stars." width="128">
 <strong>I collected 2000 stars.</strong>
 <br><br>
 
@@ -16,7 +16,7 @@ Repos:
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★37</a>
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★37</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★34</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★26</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★27</a>
 * <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★22</a>
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★11</a>
 * <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★10</a>
