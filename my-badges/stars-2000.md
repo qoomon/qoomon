@@ -1,11 +1,11 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/badges/stars/stars-2000.png?raw=true" alt="I collected 2000 stars." title="I collected 2000 stars." width="128">
+<img src="https://my-badges.github.io/my-badges/stars-2000.png" alt="I collected 2000 stars." title="I collected 2000 stars." width="128">
 <strong>I collected 2000 stars.</strong>
 <br><br>
 
 Repos:
 
 * <a href="https://github.com/qoomon/docker-host">qoomon/docker-host: ★1077</a>
-* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★331</a>
+* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★332</a>
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★291</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★233</a>
 * <a href="https://github.com/qoomon/aws-ssm-ec2-proxy-command">qoomon/aws-ssm-ec2-proxy-command: ★213</a>
@@ -31,6 +31,7 @@ Repos:
 * <a href="https://github.com/qoomon/qoomon">qoomon/qoomon: ★3</a>
 * <a href="https://github.com/qoomon/meeting-cash-creep">qoomon/meeting-cash-creep: ★3</a>
 * <a href="https://github.com/qoomon/actions--publish-to-github-pages">qoomon/actions--publish-to-github-pages: ★3</a>
+* <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★3</a>
 * <a href="https://github.com/qoomon/zsh-theme-qoomon">qoomon/zsh-theme-qoomon: ★2</a>
 * <a href="https://github.com/qoomon/zsh-history-search">qoomon/zsh-history-search: ★2</a>
 * <a href="https://github.com/qoomon/userscripts--jira-dependency-indicators">qoomon/userscripts--jira-dependency-indicators: ★2</a>
@@ -46,7 +47,6 @@ Repos:
 * <a href="https://github.com/qoomon/chrome-tab-shift-extension">qoomon/chrome-tab-shift-extension: ★2</a>
 * <a href="https://github.com/qoomon/aws-lambda-gitlab-webhook-to-datadog">qoomon/aws-lambda-gitlab-webhook-to-datadog: ★2</a>
 * <a href="https://github.com/qoomon/aws-configure">qoomon/aws-configure: ★2</a>
-* <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★2</a>
 * <a href="https://github.com/qoomon/userscripts--disable-open-search">qoomon/userscripts--disable-open-search: ★1</a>
 * <a href="https://github.com/qoomon/self-signed-https-proxy">qoomon/self-signed-https-proxy: ★1</a>
 * <a href="https://github.com/qoomon/passphrase-generator">qoomon/passphrase-generator: ★1</a>

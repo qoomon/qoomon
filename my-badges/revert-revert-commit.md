@@ -1,4 +1,4 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/badges/revert-revert-commit/revert-revert-commit.png?raw=true" alt="I reverted a revert commit." title="I reverted a revert commit." width="128">
+<img src="https://my-badges.github.io/my-badges/revert-revert-commit.png" alt="I reverted a revert commit." title="I reverted a revert commit." width="128">
 <strong>I reverted a revert commit.</strong>
 <br><br>
 

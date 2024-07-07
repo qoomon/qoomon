@@ -1,4 +1,4 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/badges/dead-commit/dead-commit.png?raw=true" alt="I pushed a commit with &quot;dead&quot; 5 times." title="I pushed a commit with &quot;dead&quot; 5 times." width="128">
+<img src="https://my-badges.github.io/my-badges/dead-commit.png" alt="I pushed a commit with &quot;dead&quot; 5 times." title="I pushed a commit with &quot;dead&quot; 5 times." width="128">
 <strong>I pushed a commit with &quot;dead&quot; 5 times.</strong>
 <br><br>
 

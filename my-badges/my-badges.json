@@ -4,167 +4,167 @@
     "tier": 3,
     "desc": "One of my commit sha starts with \"abc\".",
     "body": "- <a href=\"https://github.com/qoomon/aws-ssm-ec2-proxy-command/commit/abc7f4cdad8c94d8f5cd654d3bdf3d1a04b08570\"><strong>abc</strong>7f4cdad8c94d8f5cd654d3bdf3d1a04b08570</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/abc-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
   },
   {
     "id": "stars-2000",
     "tier": 4,
     "desc": "I collected 2000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/qoomon/docker-host\">qoomon/docker-host: ★1077</a>\n* <a href=\"https://github.com/qoomon/git-conventional-commits\">qoomon/git-conventional-commits: ★331</a>\n* <a href=\"https://github.com/qoomon/maven-git-versioning-extension\">qoomon/maven-git-versioning-extension: ★291</a>\n* <a href=\"https://github.com/qoomon/aws-s3-bucket-browser\">qoomon/aws-s3-bucket-browser: ★233</a>\n* <a href=\"https://github.com/qoomon/aws-ssm-ec2-proxy-command\">qoomon/aws-ssm-ec2-proxy-command: ★213</a>\n* <a href=\"https://github.com/qoomon/otp-authenticator-webapp\">qoomon/otp-authenticator-webapp: ★129</a>\n* <a href=\"https://github.com/qoomon/zsh-lazyload\">qoomon/zsh-lazyload: ★107</a>\n* <a href=\"https://github.com/qoomon/gradle-git-versioning-plugin\">qoomon/gradle-git-versioning-plugin: ★96</a>\n* <a href=\"https://github.com/qoomon/Jira-Issue-Card-Printer\">qoomon/Jira-Issue-Card-Printer: ★70</a>\n* <a href=\"https://github.com/qoomon/smart-life-webapp\">qoomon/smart-life-webapp: ★37</a>\n* <a href=\"https://github.com/qoomon/banking-swift-messages-java\">qoomon/banking-swift-messages-java: ★37</a>\n* <a href=\"https://github.com/qoomon/time-timer-webapp\">qoomon/time-timer-webapp: ★34</a>\n* <a href=\"https://github.com/qoomon/actions--access-token\">qoomon/actions--access-token: ★27</a>\n* <a href=\"https://github.com/qoomon/my-zsh\">qoomon/my-zsh: ★22</a>\n* <a href=\"https://github.com/qoomon/zgem\">qoomon/zgem: ★11</a>\n* <a href=\"https://github.com/qoomon/zjump\">qoomon/zjump: ★10</a>\n* <a href=\"https://github.com/qoomon/unchecked-exceptions-java\">qoomon/unchecked-exceptions-java: ★9</a>\n* <a href=\"https://github.com/qoomon/gmail-rss-feed\">qoomon/gmail-rss-feed: ★8</a>\n* <a href=\"https://github.com/qoomon/aws-session\">qoomon/aws-session: ★6</a>\n* <a href=\"https://github.com/qoomon/vercel-cors-proxy\">qoomon/vercel-cors-proxy: ★5</a>\n* <a href=\"https://github.com/qoomon/yolo-secret\">qoomon/yolo-secret: ★4</a>\n* <a href=\"https://github.com/qoomon/userscripts--kleinanzeigen-duplicate-ad\">qoomon/userscripts--kleinanzeigen-duplicate-ad: ★4</a>\n* <a href=\"https://github.com/qoomon/chrome-tab-multiselect-extension\">qoomon/chrome-tab-multiselect-extension: ★4</a>\n* <a href=\"https://github.com/qoomon/aws-ec2-ssh-iam\">qoomon/aws-ec2-ssh-iam: ★4</a>\n* <a href=\"https://github.com/qoomon/qoomon\">qoomon/qoomon: ★3</a>\n* <a href=\"https://github.com/qoomon/meeting-cash-creep\">qoomon/meeting-cash-creep: ★3</a>\n* <a href=\"https://github.com/qoomon/actions--publish-to-github-pages\">qoomon/actions--publish-to-github-pages: ★3</a>\n* <a href=\"https://github.com/qoomon/zsh-theme-qoomon\">qoomon/zsh-theme-qoomon: ★2</a>\n* <a href=\"https://github.com/qoomon/zsh-history-search\">qoomon/zsh-history-search: ★2</a>\n* <a href=\"https://github.com/qoomon/userscripts--jira-dependency-indicators\">qoomon/userscripts--jira-dependency-indicators: ★2</a>\n* <a href=\"https://github.com/qoomon/userscripts--jira-colored-labels\">qoomon/userscripts--jira-colored-labels: ★2</a>\n* <a href=\"https://github.com/qoomon/userscripts--aws-visual-account-indicator\">qoomon/userscripts--aws-visual-account-indicator: ★2</a>\n* <a href=\"https://github.com/qoomon/threema-web-desktop-app\">qoomon/threema-web-desktop-app: ★2</a>\n* <a href=\"https://github.com/qoomon/maven-enforcer-rules\">qoomon/maven-enforcer-rules: ★2</a>\n* <a href=\"https://github.com/qoomon/kotlin-examples\">qoomon/kotlin-examples: ★2</a>\n* <a href=\"https://github.com/qoomon/junit-extension\">qoomon/junit-extension: ★2</a>\n* <a href=\"https://github.com/qoomon/insomnia-plugin-hide-login\">qoomon/insomnia-plugin-hide-login: ★2</a>\n* <a href=\"https://github.com/qoomon/domain-value-java\">qoomon/domain-value-java: ★2</a>\n* <a href=\"https://github.com/qoomon/chrome-tab-toggle-extension\">qoomon/chrome-tab-toggle-extension: ★2</a>\n* <a href=\"https://github.com/qoomon/chrome-tab-shift-extension\">qoomon/chrome-tab-shift-extension: ★2</a>\n* <a href=\"https://github.com/qoomon/aws-lambda-gitlab-webhook-to-datadog\">qoomon/aws-lambda-gitlab-webhook-to-datadog: ★2</a>\n* <a href=\"https://github.com/qoomon/aws-configure\">qoomon/aws-configure: ★2</a>\n* <a href=\"https://github.com/qoomon/actions--create-commit\">qoomon/actions--create-commit: ★2</a>\n* <a href=\"https://github.com/qoomon/userscripts--disable-open-search\">qoomon/userscripts--disable-open-search: ★1</a>\n* <a href=\"https://github.com/qoomon/self-signed-https-proxy\">qoomon/self-signed-https-proxy: ★1</a>\n* <a href=\"https://github.com/qoomon/passphrase-generator\">qoomon/passphrase-generator: ★1</a>\n* <a href=\"https://github.com/qoomon/google-chrome-launcher\">qoomon/google-chrome-launcher: ★1</a>\n* <a href=\"https://github.com/qoomon/diceware-webapp\">qoomon/diceware-webapp: ★1</a>\n* <a href=\"https://github.com/qoomon/chrome-tab-duplicate-extension\">qoomon/chrome-tab-duplicate-extension: ★1</a>\n* <a href=\"https://github.com/qoomon/chrome-show-password-extension\">qoomon/chrome-show-password-extension: ★1</a>\n* <a href=\"https://github.com/qoomon/chrome-search-engine-blocker-extension\">qoomon/chrome-search-engine-blocker-extension: ★1</a>\n* <a href=\"https://github.com/qoomon/chrome-new-tab-extension\">qoomon/chrome-new-tab-extension: ★1</a>\n* <a href=\"https://github.com/qoomon/cdn\">qoomon/cdn: ★1</a>\n* <a href=\"https://github.com/qoomon/.github\">qoomon/.github: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/stars/stars-2000.png?raw=true"
+    "body": "Repos:\n\n* <a href=\"https://github.com/qoomon/docker-host\">qoomon/docker-host: ★1077</a>\n* <a href=\"https://github.com/qoomon/git-conventional-commits\">qoomon/git-conventional-commits: ★332</a>\n* <a href=\"https://github.com/qoomon/maven-git-versioning-extension\">qoomon/maven-git-versioning-extension: ★291</a>\n* <a href=\"https://github.com/qoomon/aws-s3-bucket-browser\">qoomon/aws-s3-bucket-browser: ★233</a>\n* <a href=\"https://github.com/qoomon/aws-ssm-ec2-proxy-command\">qoomon/aws-ssm-ec2-proxy-command: ★213</a>\n* <a href=\"https://github.com/qoomon/otp-authenticator-webapp\">qoomon/otp-authenticator-webapp: ★129</a>\n* <a href=\"https://github.com/qoomon/zsh-lazyload\">qoomon/zsh-lazyload: ★107</a>\n* <a href=\"https://github.com/qoomon/gradle-git-versioning-plugin\">qoomon/gradle-git-versioning-plugin: ★96</a>\n* <a href=\"https://github.com/qoomon/Jira-Issue-Card-Printer\">qoomon/Jira-Issue-Card-Printer: ★70</a>\n* <a href=\"https://github.com/qoomon/smart-life-webapp\">qoomon/smart-life-webapp: ★37</a>\n* <a href=\"https://github.com/qoomon/banking-swift-messages-java\">qoomon/banking-swift-messages-java: ★37</a>\n* <a href=\"https://github.com/qoomon/time-timer-webapp\">qoomon/time-timer-webapp: ★34</a>\n* <a href=\"https://github.com/qoomon/actions--access-token\">qoomon/actions--access-token: ★27</a>\n* <a href=\"https://github.com/qoomon/my-zsh\">qoomon/my-zsh: ★22</a>\n* <a href=\"https://github.com/qoomon/zgem\">qoomon/zgem: ★11</a>\n* <a href=\"https://github.com/qoomon/zjump\">qoomon/zjump: ★10</a>\n* <a href=\"https://github.com/qoomon/unchecked-exceptions-java\">qoomon/unchecked-exceptions-java: ★9</a>\n* <a href=\"https://github.com/qoomon/gmail-rss-feed\">qoomon/gmail-rss-feed: ★8</a>\n* <a href=\"https://github.com/qoomon/aws-session\">qoomon/aws-session: ★6</a>\n* <a href=\"https://github.com/qoomon/vercel-cors-proxy\">qoomon/vercel-cors-proxy: ★5</a>\n* <a href=\"https://github.com/qoomon/yolo-secret\">qoomon/yolo-secret: ★4</a>\n* <a href=\"https://github.com/qoomon/userscripts--kleinanzeigen-duplicate-ad\">qoomon/userscripts--kleinanzeigen-duplicate-ad: ★4</a>\n* <a href=\"https://github.com/qoomon/chrome-tab-multiselect-extension\">qoomon/chrome-tab-multiselect-extension: ★4</a>\n* <a href=\"https://github.com/qoomon/aws-ec2-ssh-iam\">qoomon/aws-ec2-ssh-iam: ★4</a>\n* <a href=\"https://github.com/qoomon/qoomon\">qoomon/qoomon: ★3</a>\n* <a href=\"https://github.com/qoomon/meeting-cash-creep\">qoomon/meeting-cash-creep: ★3</a>\n* <a href=\"https://github.com/qoomon/actions--publish-to-github-pages\">qoomon/actions--publish-to-github-pages: ★3</a>\n* <a href=\"https://github.com/qoomon/actions--create-commit\">qoomon/actions--create-commit: ★3</a>\n* <a href=\"https://github.com/qoomon/zsh-theme-qoomon\">qoomon/zsh-theme-qoomon: ★2</a>\n* <a href=\"https://github.com/qoomon/zsh-history-search\">qoomon/zsh-history-search: ★2</a>\n* <a href=\"https://github.com/qoomon/userscripts--jira-dependency-indicators\">qoomon/userscripts--jira-dependency-indicators: ★2</a>\n* <a href=\"https://github.com/qoomon/userscripts--jira-colored-labels\">qoomon/userscripts--jira-colored-labels: ★2</a>\n* <a href=\"https://github.com/qoomon/userscripts--aws-visual-account-indicator\">qoomon/userscripts--aws-visual-account-indicator: ★2</a>\n* <a href=\"https://github.com/qoomon/threema-web-desktop-app\">qoomon/threema-web-desktop-app: ★2</a>\n* <a href=\"https://github.com/qoomon/maven-enforcer-rules\">qoomon/maven-enforcer-rules: ★2</a>\n* <a href=\"https://github.com/qoomon/kotlin-examples\">qoomon/kotlin-examples: ★2</a>\n* <a href=\"https://github.com/qoomon/junit-extension\">qoomon/junit-extension: ★2</a>\n* <a href=\"https://github.com/qoomon/insomnia-plugin-hide-login\">qoomon/insomnia-plugin-hide-login: ★2</a>\n* <a href=\"https://github.com/qoomon/domain-value-java\">qoomon/domain-value-java: ★2</a>\n* <a href=\"https://github.com/qoomon/chrome-tab-toggle-extension\">qoomon/chrome-tab-toggle-extension: ★2</a>\n* <a href=\"https://github.com/qoomon/chrome-tab-shift-extension\">qoomon/chrome-tab-shift-extension: ★2</a>\n* <a href=\"https://github.com/qoomon/aws-lambda-gitlab-webhook-to-datadog\">qoomon/aws-lambda-gitlab-webhook-to-datadog: ★2</a>\n* <a href=\"https://github.com/qoomon/aws-configure\">qoomon/aws-configure: ★2</a>\n* <a href=\"https://github.com/qoomon/userscripts--disable-open-search\">qoomon/userscripts--disable-open-search: ★1</a>\n* <a href=\"https://github.com/qoomon/self-signed-https-proxy\">qoomon/self-signed-https-proxy: ★1</a>\n* <a href=\"https://github.com/qoomon/passphrase-generator\">qoomon/passphrase-generator: ★1</a>\n* <a href=\"https://github.com/qoomon/google-chrome-launcher\">qoomon/google-chrome-launcher: ★1</a>\n* <a href=\"https://github.com/qoomon/diceware-webapp\">qoomon/diceware-webapp: ★1</a>\n* <a href=\"https://github.com/qoomon/chrome-tab-duplicate-extension\">qoomon/chrome-tab-duplicate-extension: ★1</a>\n* <a href=\"https://github.com/qoomon/chrome-show-password-extension\">qoomon/chrome-show-password-extension: ★1</a>\n* <a href=\"https://github.com/qoomon/chrome-search-engine-blocker-extension\">qoomon/chrome-search-engine-blocker-extension: ★1</a>\n* <a href=\"https://github.com/qoomon/chrome-new-tab-extension\">qoomon/chrome-new-tab-extension: ★1</a>\n* <a href=\"https://github.com/qoomon/cdn\">qoomon/cdn: ★1</a>\n* <a href=\"https://github.com/qoomon/.github\">qoomon/.github: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-2000.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
     "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/65c12ecfc3495e7cb2970d810e328c4de080027d\">65c12ec</a>\n- <a href=\"https://github.com/qoomon/banking-swift-messages-java/commit/903c0c3a163d58b349ac60178aa5badf2b7cd7d5\">903c0c3</a>\n- <a href=\"https://github.com/qoomon/actions--template/commit/ae823edb04f89e0444be9dd0dd41195f2032a82b\">ae823ed</a>\n- <a href=\"https://github.com/qoomon/actions--template/commit/e2331eea232a0927db8eefabcecf2f4590ad9273\">e2331ee</a>\n- <a href=\"https://github.com/qoomon/gradle-git-versioning-plugin/commit/b860b2e6a2d1c2b9c82376efbafc1b07a2708a82\">b860b2e</a>\n- <a href=\"https://github.com/qoomon/gradle-git-versioning-plugin/commit/14afe91d1d4e46c690894c35abcc9e6582853702\">14afe91</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/morning-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/zsh-theme-qoomon/commit/743012c9e2d47014cedc2b7580610eb4b586ffcb\">743012c</a>\n- <a href=\"https://github.com/qoomon/smart-life-webapp/commit/7211a50ae41edfd428799f47eda510a77858e509\">7211a50</a>\n- <a href=\"https://github.com/qoomon/meeting-cash-creep/commit/6dd6d875a72f870926aff67bdcaf48f22a693537\">6dd6d87</a>\n- <a href=\"https://github.com/qoomon/qoomon/commit/11d6f00755ccda875111b677d46c780c37b5e494\">11d6f00</a>\n- <a href=\"https://github.com/qoomon/qoomon/commit/b6467142ff0a2b5f71b536c5ac64db86e4d1f8d6\">b646714</a>\n- <a href=\"https://github.com/qoomon/qoomon/commit/dc2c64030dea5e95bce97ffdab56a5e040fa9f5b\">dc2c640</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/evening-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/sandbox/commit/71f45b90c62046e3c04737cce6487469dedac4a8\">71f45b9</a>\n- <a href=\"https://github.com/qoomon/sandbox/commit/447bd091e686a44a1dce3de7fdb5362ad02c765a\">447bd09</a>\n- <a href=\"https://github.com/qoomon/git-conventional-commits/commit/eb75ddb99349fae58962421abc4ae05273469327\">eb75ddb</a>\n- <a href=\"https://github.com/qoomon/git-conventional-commits/commit/6a3b02cc7d6b25ce598918b3ece2ba9080649766\">6a3b02c</a>\n- <a href=\"https://github.com/qoomon/vercel-cors-proxy/commit/afcb3c8ac58817aecb28e1773b4d531386d849b1\">afcb3c8</a>\n- <a href=\"https://github.com/qoomon/sandbox/commit/9c1d138be1c369a08fcf59404aa2b80e9391277e\">9c1d138</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/midnight-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
     "id": "github-anniversary-10",
     "tier": 0,
     "desc": "I joined GitHub 10 years ago.",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/github-anniversary/github-anniversary-10.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
   },
   {
     "id": "star-gazer",
     "tier": 0,
     "desc": "I'm a star gazer!",
     "body": "I've starred over 1000 repositories!",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/star-gazer/star-gazer.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/star-gazer.png"
   },
   {
     "id": "dead-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"dead\" 5 times.",
     "body": "- <a href=\"https://github.com/qoomon/actions--access-token/commit/941edeadc24d2f8dcd8738ed779bd045b71835ff\">941e<strong>dead</strong>c24d2f8dcd8738ed779bd045b71835ff</a>\n- <a href=\"https://github.com/qoomon/aws-ssm-ec2-proxy-command/commit/6fdead7671ba3bd913a9b2a66ad728ed72e55309\">6f<strong>dead</strong>7671ba3bd913a9b2a66ad728ed72e55309</a>\n- <a href=\"https://github.com/qoomon/Jira-Issue-Card-Printer/commit/9324679b024cefe817590bdeadb856f82c576568\">9324679b024cefe817590b<strong>dead</strong>b856f82c576568</a>\n- <a href=\"https://github.com/qoomon/maven-git-versioning-extension/commit/8117f2fa58b6150a26dc6aa150bfc5dead6e0310\">8117f2fa58b6150a26dc6aa150bfc5<strong>dead</strong>6e0310</a>\n- <a href=\"https://github.com/qoomon/otp-authenticator-webapp/commit/f8b402b83c51deadca9b46e97ae44fad466eb594\">f8b402b83c51<strong>dead</strong>ca9b46e97ae44fad466eb594</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/dead-commit/dead-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/actions--access-token/commit/a13e23550ca35ae29d87ff619e5367d54cc3b063\">a13e235</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
     "id": "revert-revert-commit",
     "tier": 0,
     "desc": "I reverted a revert commit.",
     "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/sandbox/commit/524e8335903c674cbbdad83cc6d240531bcbadf8\">524e833</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/revert-revert-commit/revert-revert-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
   },
   {
     "id": "my-badges-contributor",
     "tier": 0,
     "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/47\">#47</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/54\">#54</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/my-badges-contributor/my-badges-contributor.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
   },
   {
     "id": "fix-6+",
     "tier": 6,
     "desc": "I did 13 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/2d454d4ae4b0a04450d39eec07c90f57585340bc\">2d454d4</a>: fix: vercel\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/701e98e64babedf335d0cf6d17a1a4c9a656d0ac\">701e98e</a>: fix: vercel\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/980b93750d4d7db4888d2acdb5af85713d909fe1\">980b937</a>: fix: vercel\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/9845d3d334afe748b0e77077377df841535c88c7\">9845d3d</a>: fix: vercel\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/1eca07e74b10118e678e7871462db74967476625\">1eca07e</a>: fix: vercel\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/bca3aff5f005049fa41823db3802c0173306cc05\">bca3aff</a>: fix: vercel\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/9b5f7b2446063b8f12294e32f52343a7307f57a2\">9b5f7b2</a>: fix: vercel\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/7f4d7ec24cb02f10d69a83ed3a91aa06af807ad1\">7f4d7ec</a>: fix: vercel\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/518a90fe5fd95e4ee4b494fee2024843224dbc83\">518a90f</a>: fix: vercel\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/b3b955b830b4e44e26446be58658fa322ef6a8f1\">b3b955b</a>: fix: vercel\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/a85967729e15d1ed33e4298b223461ce017063d1\">a859677</a>: fix: vercel\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/f7f8948aa914f6d653de959cd9e326265b988ce1\">f7f8948</a>: fix routing\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/fc23253c3336817823e6e4d117346a93b6c61712\">fc23253</a>: fix: fix wron icon path",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-6+.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
     "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/actions--create-commit/commit/b29d36a1757b1dba7bfd54528ba8c172cb973c90\">b29d36a</a>: chore: add local run script",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/chore-commit/chore-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "delorean",
     "tier": 0,
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
     "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/maven-git-versioning-extension/commit/83a015ef0b66dbfc4f0beaddb1b723a321353e0e\">83a015e</a>\n- <a href=\"https://github.com/qoomon/maven-git-versioning-extension/commit/7a8cbc5ab1f0e01bcdadb1d796129425802f5b9b\">7a8cbc5</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/delorean/delorean.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
   },
   {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/covid-19/covid-19.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
     "id": "pr-collaboration-10",
     "tier": 2,
     "desc": "I have participated in pull requests with 10 or more people",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/mockk/mockk/pull/633\">#633</a>: feat: value class support",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/pr-collaboration/pr-collaboration-10.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-10.png"
   },
   {
     "id": "public-keys-2",
     "tier": 2,
     "desc": "I have two public keys",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/public-keys/public-keys-2.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   },
   {
     "id": "old-issue-6",
     "tier": 6,
     "desc": "I closed an issue that was open for 6 years",
     "body": "Issues:\n\n- <a href=\"https://github.com/rundeck/rundeck/issues/1047\">#1047</a>: Queuing Jobs",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/old-issue/old-issue-6.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/old-issue-6.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
     "body": "My favorite commit message words are:\n\n1. update (used 2467 times)\n2. from (used 1123 times)\n3. readme.md (used 1104 times)\n4. to (used 901 times)\n5. bump (used 726 times)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/favorite-word/favorite-word.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
     "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/szimek/sharedrop/issues/60\">#60</a>: Feature Request: Edit Own Display Name\n- <a href=\"https://github.com/airform/airform/issues/12\">#12</a>: obfuscate email address in action url\n- <a href=\"https://github.com/yulrizka/osx-push-to-talk/issues/29\">#29</a>: Systembar Icon Design\n- <a href=\"https://github.com/Aloxaf/fzf-tab/issues/357\">#357</a>: [FR] Alternative Group Name Display\n- <a href=\"https://github.com/probot/probot/issues/1818\">#1818</a>: Set Response Body and Status Code\n\n And many more...",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/polite-coder/polite-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
     "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/9845d3d334afe748b0e77077377df841535c88c7\">9845d3d</a>\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/1eca07e74b10118e678e7871462db74967476625\">1eca07e</a>\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/bca3aff5f005049fa41823db3802c0173306cc05\">bca3aff</a>\n- <a href=\"https://github.com/qoomon/yolo-secret/commit/9b5f7b2446063b8f12294e32f52343a7307f57a2\">9b5f7b2</a>\n- <a href=\"https://github.com/qoomon/website/commit/bd5e8c87f71378be6918d066bb281fc1072bd4f7\">bd5e8c8</a>\n- <a href=\"https://github.com/qoomon/maven-git-versioning-extension/commit/904a82ab71f749b2b4d29292eeaf9e20bbcc8dbf\">904a82a</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/sleepy-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
     "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/actions--create-commit/commit/57454ba3fce7812e1708e9c73fe64f7ace0058de\">57454ba</a>\n- <a href=\"https://github.com/qoomon/actions--create-tag/commit/663af778725853080d32c2c3fed580b88377e555\">663af77</a>\n- <a href=\"https://github.com/qoomon/actions--template/commit/b176ed646e73dd477acb0b3cda2161fe307e1b8a\">b176ed6</a>\n- <a href=\"https://github.com/qoomon/actions--create-commit/commit/8e2cb3aa72c8e150d7abe114917813c4716264ee\">8e2cb3a</a>\n- <a href=\"https://github.com/qoomon/git-conventional-commits/commit/756d5e757ad8a91c07b75f22cd8ec6fcbcfd0a3d\">756d5e7</a>\n- <a href=\"https://github.com/qoomon/git-conventional-commits/commit/de5451e0d63286a57d0f6ecdb88470fee9333a29\">de5451e</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/cosmetic-commit/cosmetic-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
     "id": "cafe-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"cafe\" 5 times.",
     "body": "- <a href=\"https://github.com/qoomon/actions--access-token/commit/71ba44862dd4d5e5615a827cdf6a29943f5cafe5\">71ba44862dd4d5e5615a827cdf6a29943f5<strong>cafe</strong>5</a>\n- <a href=\"https://github.com/qoomon/actions--oidc-debug/commit/c3ce3aa6cdf6c0cecdc984efbbdf7cb703acafe5\">c3ce3aa6cdf6c0cecdc984efbbdf7cb703a<strong>cafe</strong>5</a>\n- <a href=\"https://github.com/qoomon/aws-ssm-ec2-proxy-command/commit/b26fdcafe723ea15eab220b42b89c9ea800c3c79\">b26fd<strong>cafe</strong>723ea15eab220b42b89c9ea800c3c79</a>\n- <a href=\"https://github.com/qoomon/sandbox/commit/a855d65a91092c4ccafeb6dbf9bfb6850702a229\">a855d65a91092c4c<strong>cafe</strong>b6dbf9bfb6850702a229</a>\n- <a href=\"https://github.com/qoomon/zsh-theme-qoomon/commit/6cafe629a5179943a609bf5dab914bb958fc8ed9\">6<strong>cafe</strong>629a5179943a609bf5dab914bb958fc8ed9</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/cafe-commit/cafe-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
     "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/domain-value-java/commit/04982929d62c241a0fd626bb19c441ce2c968d4c\">0498292</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/epic-commit/epic-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]
