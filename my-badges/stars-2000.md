@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/qoomon/docker-host">qoomon/docker-host: ★1077</a>
+* <a href="https://github.com/qoomon/docker-host">qoomon/docker-host: ★1078</a>
 * <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★336</a>
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★292</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★234</a>
@@ -13,7 +13,7 @@ Repos:
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★107</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★97</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
-* <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★38</a>
+* <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★39</a>
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★37</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★34</a>
 * <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★28</a>
@@ -28,10 +28,10 @@ Repos:
 * <a href="https://github.com/qoomon/userscripts--kleinanzeigen-duplicate-ad">qoomon/userscripts--kleinanzeigen-duplicate-ad: ★4</a>
 * <a href="https://github.com/qoomon/chrome-tab-multiselect-extension">qoomon/chrome-tab-multiselect-extension: ★4</a>
 * <a href="https://github.com/qoomon/aws-ec2-ssh-iam">qoomon/aws-ec2-ssh-iam: ★4</a>
+* <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★4</a>
 * <a href="https://github.com/qoomon/qoomon">qoomon/qoomon: ★3</a>
 * <a href="https://github.com/qoomon/meeting-cash-creep">qoomon/meeting-cash-creep: ★3</a>
 * <a href="https://github.com/qoomon/actions--publish-to-github-pages">qoomon/actions--publish-to-github-pages: ★3</a>
-* <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★3</a>
 * <a href="https://github.com/qoomon/zsh-theme-qoomon">qoomon/zsh-theme-qoomon: ★2</a>
 * <a href="https://github.com/qoomon/zsh-history-search">qoomon/zsh-history-search: ★2</a>
 * <a href="https://github.com/qoomon/userscripts--jira-dependency-indicators">qoomon/userscripts--jira-dependency-indicators: ★2</a>
