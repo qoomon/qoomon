@@ -123,6 +123,14 @@
     <img height="64" src="octocat.gif">
   </a>
   <br><br>
+  <a href="https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13">
+   <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/gist?id=5dfcdf8eec66a051ecd85625518cfd13&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e">
+    <img alt="" align="top" src="https://github-readme-stats.vercel.app/api/gist?id=5dfcdf8eec66a051ecd85625518cfd13&theme=default_repocard">
+  </picture>
+  </a>&nbsp;
+  <br><br>
   <a href="https://github.com/qoomon/git-conventional-commits">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -198,13 +206,6 @@
     <source media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=meeting-cash-creep&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e&description_lines_count=2">
     <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=meeting-cash-creep&theme=default_repocard&description_lines_count=2">
-  </picture>
-  </a>&nbsp;
-  <a href="https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13">
-   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/gist?id=5dfcdf8eec66a051ecd85625518cfd13&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e">
-    <img alt="" align="top" src="https://github-readme-stats.vercel.app/api/gist?id=5dfcdf8eec66a051ecd85625518cfd13&theme=default_repocard">
   </picture>
   </a>&nbsp;
 </div>
