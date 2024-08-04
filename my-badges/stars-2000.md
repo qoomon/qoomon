@@ -22,7 +22,7 @@ Repos:
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★11</a>
 * <a href="https://github.com/qoomon/unchecked-exceptions-java">qoomon/unchecked-exceptions-java: ★9</a>
 * <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★8</a>
-* <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★7</a>
+* <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★8</a>
 * <a href="https://github.com/qoomon/aws-session">qoomon/aws-session: ★6</a>
 * <a href="https://github.com/qoomon/vercel-cors-proxy">qoomon/vercel-cors-proxy: ★5</a>
 * <a href="https://github.com/qoomon/yolo-secret">qoomon/yolo-secret: ★4</a>
