@@ -6,8 +6,8 @@ Repos:
 
 * <a href="https://github.com/qoomon/docker-host">qoomon/docker-host: ★1083</a>
 * <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★344</a>
-* <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★293</a>
-* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★237</a>
+* <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★294</a>
+* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★236</a>
 * <a href="https://github.com/qoomon/aws-ssm-ec2-proxy-command">qoomon/aws-ssm-ec2-proxy-command: ★214</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★132</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★109</a>
@@ -15,7 +15,7 @@ Repos:
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★40</a>
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★38</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★35</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★36</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★34</a>
 * <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★22</a>
 * <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★11</a>
