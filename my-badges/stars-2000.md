@@ -16,7 +16,7 @@ Repos:
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★40</a>
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★38</a>
 * <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★36</a>
-* <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★34</a>
+* <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★35</a>
 * <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★22</a>
 * <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★11</a>
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★11</a>
@@ -48,6 +48,7 @@ Repos:
 * <a href="https://github.com/qoomon/aws-lambda-gitlab-webhook-to-datadog">qoomon/aws-lambda-gitlab-webhook-to-datadog: ★2</a>
 * <a href="https://github.com/qoomon/aws-configure">qoomon/aws-configure: ★2</a>
 * <a href="https://github.com/qoomon/actions--setup-git">qoomon/actions--setup-git: ★2</a>
+* <a href="https://github.com/qoomon/actions">qoomon/actions: ★2</a>
 * <a href="https://github.com/qoomon/userscripts--disable-open-search">qoomon/userscripts--disable-open-search: ★1</a>
 * <a href="https://github.com/qoomon/self-signed-https-proxy">qoomon/self-signed-https-proxy: ★1</a>
 * <a href="https://github.com/qoomon/passphrase-generator">qoomon/passphrase-generator: ★1</a>
