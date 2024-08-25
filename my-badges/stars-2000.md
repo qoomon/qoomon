@@ -10,7 +10,7 @@ Repos:
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★239</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★216</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★132</a>
-* <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★112</a>
+* <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★113</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★96</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
 * <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★41</a>
@@ -20,8 +20,8 @@ Repos:
 * <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★22</a>
 * <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★11</a>
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★11</a>
+* <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★10</a>
 * <a href="https://github.com/qoomon/unchecked-exceptions-java">qoomon/unchecked-exceptions-java: ★9</a>
-* <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★9</a>
 * <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★8</a>
 * <a href="https://github.com/qoomon/aws-session">qoomon/aws-session: ★6</a>
 * <a href="https://github.com/qoomon/vercel-cors-proxy">qoomon/vercel-cors-proxy: ★5</a>
