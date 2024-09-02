@@ -4,11 +4,11 @@
 
 Repos:
 
-* <a href="https://github.com/qoomon/docker-host">qoomon/docker-host: ★1085</a>
+* <a href="https://github.com/qoomon/docker-host">qoomon/docker-host: ★1086</a>
 * <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★354</a>
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★296</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★241</a>
-* <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★216</a>
+* <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★217</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★133</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★113</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★96</a>
