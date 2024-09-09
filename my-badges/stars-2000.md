@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/qoomon/docker-host">qoomon/docker-host: ★1085</a>
-* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★356</a>
+* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★357</a>
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★298</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★243</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★218</a>
