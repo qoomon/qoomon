@@ -5,10 +5,10 @@
 My favorite commit message words are:
 
 1. update (used 2690 times)
-2. from (used 1398 times)
+2. from (used 1411 times)
 3. readme.md (used 1175 times)
-4. to (used 1085 times)
-5. bump (used 901 times)
+4. to (used 1093 times)
+5. bump (used 911 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
