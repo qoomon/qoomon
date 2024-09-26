@@ -11,10 +11,10 @@ Repos:
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★219</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★133</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★116</a>
-* <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★95</a>
+* <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★96</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
 * <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★48</a>
-* <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★40</a>
+* <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★41</a>
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★39</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★35</a>
 * <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★22</a>
@@ -25,8 +25,8 @@ Repos:
 * <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★9</a>
 * <a href="https://github.com/qoomon/aws-session">qoomon/aws-session: ★6</a>
 * <a href="https://github.com/qoomon/vercel-cors-proxy">qoomon/vercel-cors-proxy: ★5</a>
+* <a href="https://github.com/qoomon/userscripts--kleinanzeigen-duplicate-ad">qoomon/userscripts--kleinanzeigen-duplicate-ad: ★5</a>
 * <a href="https://github.com/qoomon/yolo-secret">qoomon/yolo-secret: ★4</a>
-* <a href="https://github.com/qoomon/userscripts--kleinanzeigen-duplicate-ad">qoomon/userscripts--kleinanzeigen-duplicate-ad: ★4</a>
 * <a href="https://github.com/qoomon/chrome-tab-multiselect-extension">qoomon/chrome-tab-multiselect-extension: ★4</a>
 * <a href="https://github.com/qoomon/aws-ec2-ssh-iam">qoomon/aws-ec2-ssh-iam: ★4</a>
 * <a href="https://github.com/qoomon/qoomon">qoomon/qoomon: ★3</a>
