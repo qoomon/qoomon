@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/qoomon/actions--access-token/commit/44a5fd0201e1787b9ed93627f62dff2cc7b4b46e">44a5fd0</a>: chore(action): remove unused permission from job
+- <a href="https://github.com/qoomon/actions--access-token/commit/b57b8082c75c28c0b4df8be5344c0b79788b6c49">b57b808</a>: chore: add new build
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
