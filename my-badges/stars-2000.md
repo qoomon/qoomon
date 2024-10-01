@@ -17,7 +17,7 @@ Repos:
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★40</a>
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★40</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★36</a>
-* <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★22</a>
+* <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★23</a>
 * <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★12</a>
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★12</a>
 * <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★11</a>
