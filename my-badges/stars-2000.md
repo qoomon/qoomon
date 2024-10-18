@@ -5,11 +5,11 @@
 Repos:
 
 * <a href="https://github.com/qoomon/docker-host">qoomon/docker-host: ★1093</a>
-* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★372</a>
+* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★374</a>
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★303</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★248</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★222</a>
-* <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★134</a>
+* <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★135</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★118</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★98</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
@@ -50,6 +50,7 @@ Repos:
 * <a href="https://github.com/qoomon/aws-lambda-gitlab-webhook-to-datadog">qoomon/aws-lambda-gitlab-webhook-to-datadog: ★2</a>
 * <a href="https://github.com/qoomon/aws-configure">qoomon/aws-configure: ★2</a>
 * <a href="https://github.com/qoomon/actions">qoomon/actions: ★2</a>
+* <a href="https://github.com/qoomon/xbar-colima-status">qoomon/xbar-colima-status: ★1</a>
 * <a href="https://github.com/qoomon/userscripts--disable-open-search">qoomon/userscripts--disable-open-search: ★1</a>
 * <a href="https://github.com/qoomon/self-signed-https-proxy">qoomon/self-signed-https-proxy: ★1</a>
 * <a href="https://github.com/qoomon/passphrase-generator">qoomon/passphrase-generator: ★1</a>
