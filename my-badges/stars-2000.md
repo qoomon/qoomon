@@ -9,8 +9,8 @@ Repos:
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★306</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★250</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★226</a>
-* <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★135</a>
-* <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★120</a>
+* <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★136</a>
+* <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★119</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★98</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
 * <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★58</a>
@@ -61,6 +61,7 @@ Repos:
 * <a href="https://github.com/qoomon/chrome-search-engine-blocker-extension">qoomon/chrome-search-engine-blocker-extension: ★1</a>
 * <a href="https://github.com/qoomon/chrome-new-tab-extension">qoomon/chrome-new-tab-extension: ★1</a>
 * <a href="https://github.com/qoomon/cdn">qoomon/cdn: ★1</a>
+* <a href="https://github.com/qoomon/awesome-hacker-search-engines">qoomon/awesome-hacker-search-engines: ★1</a>
 * <a href="https://github.com/qoomon/actions--set-env">qoomon/actions--set-env: ★1</a>
 * <a href="https://github.com/qoomon/actions--create-deployment">qoomon/actions--create-deployment: ★1</a>
 * <a href="https://github.com/qoomon/.github">qoomon/.github: ★1</a>
