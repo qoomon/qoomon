@@ -122,6 +122,8 @@
   <a href="https://github.com/qoomon">
     <img height="64" src="octocat.gif">
   </a>
+  <br>
+  <img alt="" src="https://github-starline.vercel.app/users/qoomon">
   <br><br>
   <a href="https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13">
    <picture>
@@ -213,7 +215,7 @@
 ##
 
 <div align="center">  
-  <img alt="" src="https://github-starline.vercel.app/users/qoomon">
+  
 </div>
 
 
