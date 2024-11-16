@@ -211,12 +211,3 @@
   </picture>
   </a>&nbsp;
 </div>
-
-##
-
-<div align="center">  
-  
-</div>
-
-
-
