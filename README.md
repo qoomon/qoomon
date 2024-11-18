@@ -123,8 +123,8 @@
     <img height="64" src="octocat.gif">
   </a>
   <br>
-  <a href="https://github.com/qoomon">
-    <img alt="" src="https://github.com/qoomon/starline">
+  <a href="https://github.com/qoomon/starline">
+    <img alt="" src="https://github-starline.vercel.app/users/qoomon">
   </a>
   <br><br>
   <a href="https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13">
