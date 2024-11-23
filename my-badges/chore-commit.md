@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/qoomon/actions--access-token/commit/b57b8082c75c28c0b4df8be5344c0b79788b6c49">b57b808</a>: chore: add new build
+- <a href="https://github.com/qoomon/actions--access-token/commit/6a562168fe9ef0b10b278a64dcc516c69eeb33e5">6a56216</a>: chore(action): build release
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -13,7 +13,7 @@ Repos:
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★121</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★98</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★59</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★61</a>
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★45</a>
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★41</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★36</a>
