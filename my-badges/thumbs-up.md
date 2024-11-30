@@ -11,7 +11,7 @@
 - [10 thumbs ups](https://github.com/docker/for-linux/issues/264#issuecomment-427957904)
 - [9 thumbs ups](https://github.com/oshai/kotlin-logging/issues/228)
 - [9 thumbs ups](https://github.com/remind101/assume-role/pull/30)
-- [8 thumbs ups](https://github.com/keybase/client/issues/9002#issuecomment-512907069)
+- [9 thumbs ups](https://github.com/community/community/discussions/12025#discussioncomment-9692261)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
