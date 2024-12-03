@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/qoomon/actions--access-token/commit/6a562168fe9ef0b10b278a64dcc516c69eeb33e5">6a56216</a>: chore(action): build release
+- <a href="https://github.com/qoomon/starlines/commit/b00bc8e19d321c5b809f96bda45bfdb4efd7c005">b00bc8e</a>: chore: add purge function
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
