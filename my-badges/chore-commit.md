@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/qoomon/starlines/commit/b00bc8e19d321c5b809f96bda45bfdb4efd7c005">b00bc8e</a>: chore: add purge function
+- <a href="https://github.com/qoomon/starlines/commit/e5cba87104ca01fc53a512f104751ce61ba97a4c">e5cba87</a>: chore: remove playground.js
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
