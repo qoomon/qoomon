@@ -2,29 +2,29 @@
 <strong>I liked my own comment so much that I upvoted it.</strong>
 <br><br>
 
-* <a href="https://github.com/rundeck/rundeck/issues/1047">👍</a>
-* <a href="https://github.com/qoomon/Jira-Issue-Card-Printer/issues/40">👍</a>
-* <a href="https://github.com/clipperz/password-manager/issues/127">👍</a>
 * <a href="https://github.com/yulrizka/osx-push-to-talk/issues/30">❤️</a>
 * <a href="https://github.com/dwarvesf/hidden/issues/99">👍</a>
+* <a href="https://github.com/qoomon/Jira-Issue-Card-Printer/issues/40">👍</a>
 * <a href="https://github.com/yonilevy/automute/issues/7">👍</a>
-* <a href="https://github.com/oshai/kotlin-logging/issues/228">👍</a>
+* <a href="https://github.com/rundeck/rundeck/issues/1047">👍</a>
 * <a href="https://github.com/junegunn/fzf/issues/3158">❤️</a>
 * <a href="https://github.com/junegunn/fzf/issues/3158">🚀</a>
+* <a href="https://github.com/oshai/kotlin-logging/issues/228">👍</a>
 * <a href="https://github.com/mnin/coinbase-moneymoney/issues/20">👍</a>
+* <a href="https://github.com/clipperz/password-manager/issues/127">👍</a>
+* <a href="https://github.com/assertj/assertj/pull/1460">🎉</a>
+* <a href="https://github.com/mockk/mockk/pull/426">👍</a>
+* <a href="https://github.com/antonmedv/spark/pull/9">👀</a>
 * <a href="https://github.com/zsh-users/zsh-history-substring-search/pull/72">👍</a>
 * <a href="https://github.com/remind101/assume-role/pull/30">👍</a>
 * <a href="https://github.com/remind101/assume-role/pull/30">❤️</a>
 * <a href="https://github.com/rstacruz/cheatsheets/pull/1023">👍</a>
-* <a href="https://github.com/assertj/assertj/pull/1460">🎉</a>
 * <a href="https://github.com/agnoster/agnoster-zsh-theme/pull/114">👍</a>
-* <a href="https://github.com/mockk/mockk/pull/426">👍</a>
-* <a href="https://github.com/mockk/mockk/pull/633">❤️</a>
-* <a href="https://github.com/antonmedv/spark/pull/9">👀</a>
 * <a href="https://github.com/my-badges/my-badges/pull/49">👀</a>
 * <a href="https://github.com/my-badges/my-badges/pull/49">👍</a>
 * <a href="https://github.com/my-badges/my-badges/pull/50">👀</a>
 * <a href="https://github.com/my-badges/my-badges/pull/50">👍</a>
+* <a href="https://github.com/mockk/mockk/pull/633">❤️</a>
 * <a href="https://github.com/community/community/discussions/12025#discussioncomment-9493188">🚀</a>
 * <a href="https://github.com/community/community/discussions/46566#discussioncomment-9638833">🚀</a>
 * <a href="https://github.com/community/community/discussions/46566#discussioncomment-9638909">👀</a>
