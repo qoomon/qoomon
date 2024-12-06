@@ -67,6 +67,7 @@
 * <a href="https://github.com/actions/runner/issues/1665#issuecomment-1511738926">🚀</a>
 * <a href="https://github.com/antonmedv/spark/pull/9#issuecomment-2142417604">😕</a>
 * <a href="https://github.com/antonmedv/spark/pull/9#issuecomment-2142417604">👀</a>
+* <a href="https://github.com/joshjohanning/joshjohanning.github.io/issues/17#issuecomment-2152707333">👀</a>
 * <a href="https://github.com/joshjohanning/joshjohanning.github.io/issues/17#issuecomment-2155853286">👀</a>
 
 
