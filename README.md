@@ -1,6 +1,10 @@
 <div align="center">
   <a href="https://www.qoo.monster">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=qo̱ọmŏ̎n&fontSize=32&animation=fadeIn&fontAlignY=30&desc=%F0%9F%8C%B3%20Go%20for%20it.&descSize=12&descAlignY=46&descAlign=54.5">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+        srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=qo̱ọmŏ̎n&fontSize=32&animation=fadeIn&fontAlignY=30&desc=%F0%9F%8C%B3%20Go%20for%20it.&descSize=12&descAlignY=46&descAlign=54.5&fontColor=fefefe">
+       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=qo̱ọmŏ̎n&fontSize=32&animation=fadeIn&fontAlignY=30&desc=%F0%9F%8C%B3%20Go%20for%20it.&descSize=12&descAlignY=46&descAlign=54.5&fontColor=3f2661">
+    </picture>
   </a>
 </div>
 
