@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 54 my own repositories." title="I&apos;ve starred 54 my own repositories." width="128">
-<strong>I&apos;ve starred 54 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 55 my own repositories." title="I&apos;ve starred 55 my own repositories." width="128">
+<strong>I&apos;ve starred 55 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer</a>
@@ -56,6 +56,7 @@
 - <a href="https://github.com/qoomon/actions--create-deployment">qoomon/actions--create-deployment</a>
 - <a href="https://github.com/qoomon/sandbox">qoomon/sandbox</a>
 - <a href="https://github.com/qoomon/starlines">qoomon/starlines</a>
+- <a href="https://github.com/qoomon/GoogleContactsEventsToGoogleCalendarSync">qoomon/GoogleContactsEventsToGoogleCalendarSync</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
