@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/qoomon/maven-git-versioning-extension/commit/a257de3be603c7b440e27c94816e92db68972180">a257de3</a>
-- <a href="https://github.com/qoomon/maven-git-versioning-extension/commit/3f59e862d963260108d26d754d6a2164249ce05d">3f59e86</a>
-- <a href="https://github.com/qoomon/short-urls/commit/33d45e0a9d01b8fe580fe8d8e59e9f5bf7cfce32">33d45e0</a>
-- <a href="https://github.com/qoomon/short-urls/commit/8efde2a4452edfabbda1d8fe74e268eff8a6445e">8efde2a</a>
-- <a href="https://github.com/qoomon/short-urls/commit/768cd290dfdc256c25a8eb422960fad720bf3258">768cd29</a>
-- <a href="https://github.com/qoomon/actions--access-token/commit/c1c5130bf4d18d2ce356e2fefa9bab80fea9e204">c1c5130</a>
+- <a href="https://github.com/qoomon/actions--context/commit/2298383d23486badb47866af698280febcff2117">2298383</a>
+- <a href="https://github.com/qoomon/actions--context/commit/c66034905c90626f4d9c5449f1edb4de20a5d463">c660349</a>
+- <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command/commit/7a15fb1ba9b6b0ff9aefdcba874e253b07650c91">7a15fb1</a>
+- <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command/commit/aac2385c7d59385626eca3e40ec243cf502085ef">aac2385</a>
+- <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command/commit/9e514e7666530fcbf4cb2228599056af3f14856f">9e514e7</a>
+- <a href="https://github.com/qoomon/userscript-google-search-maps-link/commit/c78661760ef1742169d9da822baf3d160002c111">c786617</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
