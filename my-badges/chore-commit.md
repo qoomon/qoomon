@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/qoomon/starlines/commit/e5cba87104ca01fc53a512f104751ce61ba97a4c">e5cba87</a>: chore: remove playground.js
+- <a href="https://github.com/qoomon/starlines/commit/b5813e8d285e85c5eb3448985c0c9b4c7ae9d316">b5813e8</a>: chore: delete sandbox scripts
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
