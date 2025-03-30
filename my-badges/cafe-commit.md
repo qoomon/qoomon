@@ -1,7 +1,8 @@
-<img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; 5 times." title="I pushed a commit with &quot;cafe&quot; 5 times." width="128">
-<strong>I pushed a commit with &quot;cafe&quot; 5 times.</strong>
+<img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; 6 times." title="I pushed a commit with &quot;cafe&quot; 6 times." width="128">
+<strong>I pushed a commit with &quot;cafe&quot; 6 times.</strong>
 <br><br>
 
+- <a href="https://github.com/qoomon/aws-cheatsheet/commit/f815af458bdba4a85ee2ad44f41ec8a83070cafe">f815af458bdba4a85ee2ad44f41ec8a83070<strong>cafe</strong></a>
 - <a href="https://github.com/qoomon/actions--oidc-debug/commit/c3ce3aa6cdf6c0cecdc984efbbdf7cb703acafe5">c3ce3aa6cdf6c0cecdc984efbbdf7cb703a<strong>cafe</strong>5</a>
 - <a href="https://github.com/qoomon/actions--access-token/commit/71ba44862dd4d5e5615a827cdf6a29943f5cafe5">71ba44862dd4d5e5615a827cdf6a29943f5<strong>cafe</strong>5</a>
 - <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command/commit/b26fdcafe723ea15eab220b42b89c9ea800c3c79">b26fd<strong>cafe</strong>723ea15eab220b42b89c9ea800c3c79</a>
