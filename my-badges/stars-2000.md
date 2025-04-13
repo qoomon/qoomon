@@ -4,25 +4,25 @@
 
 Repos:
 
-* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★465</a>
+* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★473</a>
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★318</a>
-* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★284</a>
-* <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★240</a>
+* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★287</a>
+* <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★241</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★142</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★126</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★101</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★92</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★96</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★50</a>
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★43</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★38</a>
-* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★31</a>
+* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★32</a>
 * <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★23</a>
-* <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★14</a>
+* <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★15</a>
 * <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★12</a>
+* <a href="https://github.com/qoomon/actions--context">qoomon/actions--context: ★12</a>
 * <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★11</a>
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★11</a>
-* <a href="https://github.com/qoomon/actions--context">qoomon/actions--context: ★9</a>
 * <a href="https://github.com/qoomon/GoogleContactsEventsToGoogleCalendarSync">qoomon/GoogleContactsEventsToGoogleCalendarSync: ★9</a>
 * <a href="https://github.com/qoomon/unchecked-exceptions-java">qoomon/unchecked-exceptions-java: ★8</a>
 * <a href="https://github.com/qoomon/actions--setup-git">qoomon/actions--setup-git: ★7</a>
@@ -65,6 +65,7 @@ Repos:
 * <a href="https://github.com/qoomon/xbar-colima-status">qoomon/xbar-colima-status: ★1</a>
 * <a href="https://github.com/qoomon/diceware-webapp">qoomon/diceware-webapp: ★1</a>
 * <a href="https://github.com/qoomon/awesome-hacker-search-engines">qoomon/awesome-hacker-search-engines: ★1</a>
+* <a href="https://github.com/qoomon/actions--event-inputs">qoomon/actions--event-inputs: ★1</a>
 * <a href="https://github.com/qoomon/actions--set-env">qoomon/actions--set-env: ★1</a>
 * <a href="https://github.com/qoomon/actions--create-deployment">qoomon/actions--create-deployment: ★1</a>
 

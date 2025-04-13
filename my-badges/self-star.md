@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 55 my own repositories." title="I&apos;ve starred 55 my own repositories." width="128">
-<strong>I&apos;ve starred 55 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 56 my own repositories." title="I&apos;ve starred 56 my own repositories." width="128">
+<strong>I&apos;ve starred 56 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer</a>
@@ -50,13 +50,14 @@
 - <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit</a>
 - <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command</a>
 - <a href="https://github.com/qoomon/actions--setup-git">qoomon/actions--setup-git</a>
-- <a href="https://github.com/qoomon/actions--context">qoomon/actions--context</a>
 - <a href="https://github.com/qoomon/actions--set-env">qoomon/actions--set-env</a>
 - <a href="https://github.com/qoomon/actions">qoomon/actions</a>
 - <a href="https://github.com/qoomon/actions--create-deployment">qoomon/actions--create-deployment</a>
 - <a href="https://github.com/qoomon/sandbox">qoomon/sandbox</a>
 - <a href="https://github.com/qoomon/starlines">qoomon/starlines</a>
 - <a href="https://github.com/qoomon/GoogleContactsEventsToGoogleCalendarSync">qoomon/GoogleContactsEventsToGoogleCalendarSync</a>
+- <a href="https://github.com/qoomon/actions--context">qoomon/actions--context</a>
+- <a href="https://github.com/qoomon/actions--event-inputs">qoomon/actions--event-inputs</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
