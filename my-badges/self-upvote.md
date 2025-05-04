@@ -4,6 +4,7 @@
 
 * <a href="https://github.com/yulrizka/osx-push-to-talk/issues/30">❤️</a>
 * <a href="https://github.com/dwarvesf/hidden/issues/99">👍</a>
+* <a href="https://github.com/nektos/act/issues/2740">👀</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer/issues/40">👍</a>
 * <a href="https://github.com/yonilevy/automute/issues/7">👍</a>
 * <a href="https://github.com/rundeck/rundeck/issues/1047">👍</a>
@@ -34,6 +35,7 @@
 * <a href="https://github.com/community/community/discussions/8945#discussioncomment-10225569">🚀</a>
 * <a href="https://github.com/community/community/discussions/8945#discussioncomment-10234535">🚀</a>
 * <a href="https://github.com/community/community/discussions/8945#discussioncomment-10843425">🚀</a>
+* <a href="https://github.com/community/community/discussions/8945#discussioncomment-12508997">🚀</a>
 * <a href="https://github.com/zsh-users/zsh-history-substring-search/pull/80#issuecomment-299861873">🎉</a>
 * <a href="https://github.com/remind101/assume-role/issues/28#issuecomment-362257309">🎉</a>
 * <a href="https://github.com/qoomon/maven-git-versioning-extension/issues/12#issuecomment-409636998">🎉</a>
