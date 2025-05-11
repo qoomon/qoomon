@@ -4,7 +4,6 @@
 
 * <a href="https://github.com/yulrizka/osx-push-to-talk/issues/30">❤️</a>
 * <a href="https://github.com/dwarvesf/hidden/issues/99">👍</a>
-* <a href="https://github.com/nektos/act/issues/2740">👀</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer/issues/40">👍</a>
 * <a href="https://github.com/yonilevy/automute/issues/7">👍</a>
 * <a href="https://github.com/rundeck/rundeck/issues/1047">👍</a>
@@ -13,6 +12,7 @@
 * <a href="https://github.com/oshai/kotlin-logging/issues/228">👍</a>
 * <a href="https://github.com/mnin/coinbase-moneymoney/issues/20">👍</a>
 * <a href="https://github.com/clipperz/password-manager/issues/127">👍</a>
+* <a href="https://github.com/nektos/act/issues/2740">👀</a>
 * <a href="https://github.com/assertj/assertj/pull/1460">🎉</a>
 * <a href="https://github.com/mockk/mockk/pull/426">👍</a>
 * <a href="https://github.com/antonmedv/spark/pull/9">👀</a>
