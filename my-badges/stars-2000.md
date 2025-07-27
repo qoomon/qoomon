@@ -4,19 +4,19 @@
 
 Repos:
 
-* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★524</a>
+* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★527</a>
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★324</a>
-* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★304</a>
+* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★306</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★251</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★141</a>
-* <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★135</a>
+* <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★140</a>
 * <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★120</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★102</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
-* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★59</a>
+* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★60</a>
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★56</a>
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★42</a>
-* <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★38</a>
+* <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★39</a>
 * <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★23</a>
 * <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★17</a>
 * <a href="https://github.com/qoomon/actions--context">qoomon/actions--context: ★16</a>
