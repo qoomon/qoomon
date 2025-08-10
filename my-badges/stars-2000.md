@@ -4,16 +4,16 @@
 
 Repos:
 
-* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★529</a>
+* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★535</a>
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★325</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★308</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★251</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★142</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★141</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★123</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★127</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★102</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
-* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★64</a>
+* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★68</a>
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★57</a>
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★42</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★39</a>
@@ -21,7 +21,7 @@ Repos:
 * <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★17</a>
 * <a href="https://github.com/qoomon/actions--parallel-steps">qoomon/actions--parallel-steps: ★17</a>
 * <a href="https://github.com/qoomon/actions--context">qoomon/actions--context: ★16</a>
-* <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★13</a>
+* <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★14</a>
 * <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★11</a>
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★11</a>
 * <a href="https://github.com/qoomon/actions--setup-git">qoomon/actions--setup-git: ★11</a>
