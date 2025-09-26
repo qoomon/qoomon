@@ -177,6 +177,3 @@
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=banking-swift-messages-java&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e&description_lines_count=2">
     <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=banking-swift-messages-java&theme=default_repocard&description_lines_count=2"></picture></a> &nbsp;
 </div>
-
-#
-<sup><sub> **prove-it:** PROOF_PROOF_PROOF </sub></sup>
