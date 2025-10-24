@@ -9,7 +9,6 @@
 </div>
 
 <div align="center">  
-  
   <!--- show all trophies: https://github-profile-trophy.vercel.app/?username=qoomon&column=-1 --->
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
@@ -65,7 +64,8 @@
       <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Reviews"></picture></a>
 </div>
 
-## 
+##
+<br>
 
 <div align="center">
 <!-- my-badges start -->
@@ -114,7 +114,12 @@
   <a href="https://github.com/qoomon/starlines">
     <img alt="" src="https://starlines.qoo.monster/assets/qoomon">
   </a>
-  <br><br>
+</div>
+
+##
+<br>
+
+<div align="center">  
   <a href="https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13">
    <picture>
     <source media="(prefers-color-scheme: dark)"
