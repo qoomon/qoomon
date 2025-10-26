@@ -4,21 +4,21 @@
 
 Repos:
 
-* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★555</a>
-* <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★325</a>
+* <a href="https://github.com/qoomon/git-conventional-commits">qoomon/git-conventional-commits: ★558</a>
+* <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★326</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★319</a>
-* <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★252</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★151</a>
+* <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★253</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★152</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★143</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★142</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★104</a>
-* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★87</a>
+* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★90</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★65</a>
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★43</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★39</a>
 * <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★24</a>
-* <a href="https://github.com/qoomon/actions--parallel-steps">qoomon/actions--parallel-steps: ★20</a>
+* <a href="https://github.com/qoomon/actions--parallel-steps">qoomon/actions--parallel-steps: ★21</a>
 * <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★19</a>
 * <a href="https://github.com/qoomon/actions--context">qoomon/actions--context: ★17</a>
 * <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★14</a>
