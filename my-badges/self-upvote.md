@@ -37,6 +37,7 @@
 * <a href="https://github.com/community/community/discussions/8945#discussioncomment-10843425">🚀</a>
 * <a href="https://github.com/community/community/discussions/8945#discussioncomment-12508997">🚀</a>
 * <a href="https://github.com/community/community/discussions/26291#discussioncomment-13239285">🚀</a>
+* <a href="https://github.com/community/community/discussions/46566#discussioncomment-14639985">👀</a>
 * <a href="https://github.com/zsh-users/zsh-history-substring-search/pull/80#issuecomment-299861873">🎉</a>
 * <a href="https://github.com/remind101/assume-role/issues/28#issuecomment-362257309">🎉</a>
 * <a href="https://github.com/qoomon/maven-git-versioning-extension/issues/12#issuecomment-409636998">🎉</a>
