@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/qoomon/actions--create-deployment/commit/9975e230918084c0a0145ee4a5c62c0dafc9721e">9975e23</a>
+- <a href="https://github.com/qoomon/actions--template/commit/f490db1fa77138f01849ec6112952d8e8b7c3634">f490db1</a>
+- <a href="https://github.com/qoomon/actions--template/commit/e0cf287519b0fb11294c9a10a0a567928b4890f9">e0cf287</a>
+- <a href="https://github.com/qoomon/vercel-cors-proxy/commit/6be30698290fd91efc9fc2c615aac34fff8a30e0">6be3069</a>
 - <a href="https://github.com/qoomon/actions--create-deployment/commit/d8fd7a7c961f24410c320799b1b46fb167fa03c8">d8fd7a7</a>
 - <a href="https://github.com/qoomon/actions--access-token/commit/12cc8a95121d7e4d8a4c8bf5518c0b58eefc9c13">12cc8a9</a>
-- <a href="https://github.com/qoomon/chrome-tab-toggle-extension/commit/fe01345175c0b8c98ff20cf52fbab011b239985a">fe01345</a>
-- <a href="https://github.com/qoomon/actions--create-deployment/commit/b79a19304592efbcb266c1d3bca6209e4f90a7ef">b79a193</a>
-- <a href="https://github.com/qoomon/maven-git-versioning-extension/commit/291dcb4d3f59e627d26d2a8197dbd6641504fcaf">291dcb4</a>
-- <a href="https://github.com/qoomon/website/commit/104111ea4dd45e2b31de7afe67f1386c73559e80">104111e</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
