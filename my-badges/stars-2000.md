@@ -6,11 +6,11 @@ Repos:
 
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★329</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★327</a>
-* <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★254</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★167</a>
+* <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★257</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★169</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★150</a>
-* <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★143</a>
-* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★119</a>
+* <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★144</a>
+* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★121</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★105</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★66</a>
@@ -25,14 +25,14 @@ Repos:
 * <a href="https://github.com/qoomon/GoogleContactsEventsToGoogleCalendarSync">qoomon/GoogleContactsEventsToGoogleCalendarSync: ★14</a>
 * <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★11</a>
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★11</a>
+* <a href="https://github.com/qoomon/vercel-cors-proxy">qoomon/vercel-cors-proxy: ★9</a>
 * <a href="https://github.com/qoomon/unchecked-exceptions-java">qoomon/unchecked-exceptions-java: ★8</a>
-* <a href="https://github.com/qoomon/vercel-cors-proxy">qoomon/vercel-cors-proxy: ★8</a>
 * <a href="https://github.com/qoomon/aws-session">qoomon/aws-session: ★6</a>
 * <a href="https://github.com/qoomon/qoomon">qoomon/qoomon: ★5</a>
 * <a href="https://github.com/qoomon/userscripts--kleinanzeigen-duplicate-ad">qoomon/userscripts--kleinanzeigen-duplicate-ad: ★5</a>
+* <a href="https://github.com/qoomon/actions">qoomon/actions: ★5</a>
 * <a href="https://github.com/qoomon/aws-ec2-ssh-iam">qoomon/aws-ec2-ssh-iam: ★4</a>
 * <a href="https://github.com/qoomon/chrome-tab-multiselect-extension">qoomon/chrome-tab-multiselect-extension: ★4</a>
-* <a href="https://github.com/qoomon/actions">qoomon/actions: ★4</a>
 * <a href="https://github.com/qoomon/actions--publish-to-github-pages">qoomon/actions--publish-to-github-pages: ★3</a>
 * <a href="https://github.com/qoomon/meeting-cash-creep">qoomon/meeting-cash-creep: ★3</a>
 * <a href="https://github.com/qoomon/userscripts--aws-visual-account-indicator">qoomon/userscripts--aws-visual-account-indicator: ★3</a>
@@ -65,6 +65,7 @@ Repos:
 * <a href="https://github.com/qoomon/xbar-colima-status">qoomon/xbar-colima-status: ★1</a>
 * <a href="https://github.com/qoomon/diceware-webapp">qoomon/diceware-webapp: ★1</a>
 * <a href="https://github.com/qoomon/userscripts--bypass-safe-links">qoomon/userscripts--bypass-safe-links: ★1</a>
+* <a href="https://github.com/qoomon/actions--oidc-debug">qoomon/actions--oidc-debug: ★1</a>
 * <a href="https://github.com/qoomon/awesome-hacker-search-engines">qoomon/awesome-hacker-search-engines: ★1</a>
 * <a href="https://github.com/qoomon/actions--event-inputs">qoomon/actions--event-inputs: ★1</a>
 * <a href="https://github.com/qoomon/actions--set-env">qoomon/actions--set-env: ★1</a>
