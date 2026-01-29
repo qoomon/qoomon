@@ -126,65 +126,59 @@
 <br>
 
 <div align="center">  
-  <a href="https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13">
-   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/gist?id=5dfcdf8eec66a051ecd85625518cfd13&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e">
-    <img alt="" align="top" src="https://github-readme-stats.vercel.app/api/gist?id=5dfcdf8eec66a051ecd85625518cfd13&theme=default_repocard"></picture></a> &nbsp;
-  <br><br>
-  <a href="https://github.com/qoomon/git-conventional-commits">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=git-conventional-commits&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e&description_lines_count=2">
-    <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=git-conventional-commits&theme=default_repocard&description_lines_count=2"></picture></a> &nbsp;
-  <a href="https://github.com/qoomon/actions--access-token">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=actions--access-token&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e&description_lines_count=2">
-    <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=actions--access-token&theme=default_repocard&description_lines_count=2"></picture></a> &nbsp;
-  <a href="https://github.com/qoomon/gradle-git-versioning-plugin">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=gradle-git-versioning-plugin&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e&description_lines_count=2">
-    <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=gradle-git-versioning-plugin&theme=default_repocard&description_lines_count=2"></picture></a> &nbsp;
-  <a href="https://github.com/qoomon/docker-host">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=docker-host&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e&description_lines_count=2">
-    <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=docker-host&theme=default_repocard&description_lines_count=2"></picture></a> &nbsp;
-  <a href="https://github.com/qoomon/aws-s3-bucket-browser">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=aws-s3-bucket-browser&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e&description_lines_count=2">
-    <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=aws-s3-bucket-browser&theme=default_repocard&description_lines_count=2"></picture></a> &nbsp;
-  <a href="https://github.com/qoomon/otp-authenticator-webapp">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=otp-authenticator-webapp&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e&description_lines_count=2">
-    <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=otp-authenticator-webapp&theme=default_repocard&description_lines_count=2"></picture></a>&nbsp;
-  <a href="https://github.com/qoomon/yolo-secret">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=yolo-secret&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e&description_lines_count=2">
-    <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=yolo-secret&theme=default_repocard&description_lines_count=2"></picture></a> &nbsp;
-  <a href="https://github.com/qoomon/time-timer-webapp">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=time-timer-webapp&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e&description_lines_count=2">
-    <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=time-timer-webapp&theme=default_repocard&description_lines_count=2"></picture></a> &nbsp;
-  <a href="https://github.com/qoomon/meeting-cash-creep">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=meeting-cash-creep&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e&description_lines_count=2">
-    <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=meeting-cash-creep&theme=default_repocard&description_lines_count=2"></picture></a> &nbsp;
-   <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=Jira-Issue-Card-Printer&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e&description_lines_count=2">
-    <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=Jira-Issue-Card-Printer&theme=default_repocard&description_lines_count=2"></picture></a> &nbsp;
-  <a href="https://github.com/qoomon/banking-swift-messages-java">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=banking-swift-messages-java&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e&description_lines_count=2">
-    <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=qoomon&repo=banking-swift-messages-java&theme=default_repocard&description_lines_count=2"></picture></a> &nbsp;
+  
+  <a href="https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="stats-cards/conventional-commits-cheatsheet-dark.svg">
+    <img alt="" align="top" src="stats-cards/conventional-commits-cheatsheet.svg"></picture></a> &nbsp;
+  
+  <br>
+
+  <a href="https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="stats-cards/conventinal-commits-cheatsheet-dark.svg">
+    <img alt="" align="top" src="stats-cards/conventinal-commits-cheatsheet.svg"></picture></a> &nbsp;
+
+  <a href="https://github.com/qoomon/git-conventional-commits"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/git-conventional-commits-dark.svg">
+      <img alt="" align="top" src="stats-cards/git-conventional-commits.svg"></picture></a> &nbsp;
+  
+  <a href="https://github.com/qoomon/actions--access-token"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/actions--access-token-dark.svg">
+      <img alt="" align="top" src="stats-cards/actions--access-token.svg"></picture></a> &nbsp;
+  
+  <a href="https://github.com/qoomon/gradle-git-versioning-plugin"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/gradle-git-versioning-plugin-dark.svg">
+      <img alt="" align="top" src="stats-cards/gradle-git-versioning-plugin.svg"></picture></a> &nbsp;
+  
+  <a href="https://github.com/qoomon/docker-host"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/docker-host-dark.svg">
+      <img alt="" align="top" src="stats-cards/docker-host.svg"></picture></a> &nbsp;
+  
+  <a href="https://github.com/qoomon/aws-s3-bucket-browser"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/aws-s3-bucket-browser-dark.svg">
+      <img alt="" align="top" src="stats-cards/aws-s3-bucket-browser.svg"></picture></a> &nbsp;
+  
+  <a href="https://github.com/qoomon/otp-authenticator-webapp"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/otp-authenticator-webapp-dark.svg">
+      <img alt="" align="top" src="stats-cards/otp-authenticator-webapp.svg"></picture></a> &nbsp;
+  
+  <a href="https://github.com/qoomon/yolo-secret"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/yolo-secret-dark.svg">
+      <img alt="" align="top" src="stats-cards/yolo-secret.svg"></picture></a> &nbsp;
+  
+  <a href="https://github.com/qoomon/time-timer-webapp"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/time-timer-webapp-dark.svg">
+      <img alt="" align="top" src="stats-cards/time-timer-webapp.svg"></picture></a> &nbsp;
+  
+  <a href="https://github.com/qoomon/meeting-cash-creep"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/meeting-cash-creep-dark.svg">
+      <img alt="" align="top" src="stats-cards/meeting-cash-creep.svg"></picture></a> &nbsp;
+  
+  <a href="https://github.com/qoomon/Jira-Issue-Card-Printer"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/Jira-Issue-Card-Printer-dark.svg">
+      <img alt="" align="top" src="stats-cards/Jira-Issue-Card-Printer.svg"></picture></a> &nbsp;
+  
+  <a href="https://github.com/qoomon/banking-swift-messages-java"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/banking-swift-messages-java-dark.svg">
+      <img alt="" align="top" src="stats-cards/banking-swift-messages-java.svg"></picture></a> &nbsp;
+  
 </div>
