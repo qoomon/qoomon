@@ -2,6 +2,9 @@ name: My Stats Cards
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/stats-cards.yml
   schedule:
     - cron: '0 0 * * Sun'
 
