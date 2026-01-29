@@ -9,59 +9,59 @@
 </div>
 
 <div align="center">  
-  <!--- show all trophies: https://github-profile-trophy.vercel.app/?username=qoomon&column=-1 --->
+  <!--- show all trophies: https://trophy.ryglcloud.net/?username=qoomon&column=-1 --->
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=LongTimeUser&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=LongTimeUser"></picture></a>
+      srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=LongTimeUser&theme=darkhub">
+      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=LongTimeUser"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Experience&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Experience"></picture></a>
+        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Experience&theme=darkhub">
+      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Experience"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Stars&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Stars"></picture></a>
+        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Stars&theme=darkhub">
+      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Stars"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Repositories&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Repositories"></picture></a>
+        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Repositories&theme=darkhub">
+      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Repositories"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=MultiLanguage&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=MultiLanguage"></picture></a>
+        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=MultiLanguage&theme=darkhub">
+      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=MultiLanguage"></picture></a>
   <br>
   
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Commits&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Commits"></picture></a>
+        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Commits&theme=darkhub">
+      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Commits"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=PullRequest&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=PullRequest"></picture></a>
+        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=PullRequest&theme=darkhub">
+      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=PullRequest"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Issues&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Issues"></picture></a>
+        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Issues&theme=darkhub">
+      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Issues"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Followers&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Followers"></picture></a>
+        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Followers&theme=darkhub">
+      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Followers"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Reviews&theme=darkhub">
-      <img src="https://github-profile-trophy.vercel.app/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Reviews"></picture></a>
+        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Reviews&theme=darkhub">
+      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Reviews"></picture></a>
 </div>
 
 ##
