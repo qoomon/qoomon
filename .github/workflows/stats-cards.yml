@@ -11,6 +11,7 @@ on:
 jobs:
   build:
     env:
+      LIGHT_CARD_THEME: theme=default_repocard
       DARK_CARD_THEME: title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
     runs-on: ubuntu-latest
     steps:
@@ -19,7 +20,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: gist
-          options: id=5dfcdf8eec66a051ecd85625518cfd13&theme=default_repocard
+          options: id=5dfcdf8eec66a051ecd85625518cfd13&${{ env.LIGHT_CARD_THEME }}
           path: stats-cards/conventional-commits-cheatsheet.svg
       - uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -30,7 +31,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=git-conventional-commits&description_lines_count=2&theme=default_repocard
+          options: username=qoomon&repo=git-conventional-commits&description_lines_count=2&${{ env.LIGHT_CARD_THEME }}
           path: stats-cards/git-conventional-commits.svg
       - uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -41,7 +42,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=actions--access-token&description_lines_count=2&theme=default_repocard
+          options: username=qoomon&repo=actions--access-token&description_lines_count=2&${{ env.LIGHT_CARD_THEME }}
           path: stats-cards/actions--access-token.svg
       - uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -52,7 +53,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=gradle-git-versioning-plugin&description_lines_count=2&theme=default_repocard
+          options: username=qoomon&repo=gradle-git-versioning-plugin&description_lines_count=2&${{ env.LIGHT_CARD_THEME }}
           path: stats-cards/gradle-git-versioning-plugin.svg
       - uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -63,7 +64,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=docker-host&description_lines_count=2&theme=default_repocard
+          options: username=qoomon&repo=docker-host&description_lines_count=2&${{ env.LIGHT_CARD_THEME }}
           path: stats-cards/docker-hostmmits.svg
       - uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -74,7 +75,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=aws-s3-bucket-browser&description_lines_count=2&theme=default_repocard
+          options: username=qoomon&repo=aws-s3-bucket-browser&description_lines_count=2&${{ env.LIGHT_CARD_THEME }}
           path: stats-cards/aws-s3-bucket-browser.svg
       - uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -85,7 +86,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=otp-authenticator-webapp&description_lines_count=2&theme=default_repocard
+          options: username=qoomon&repo=otp-authenticator-webapp&description_lines_count=2&${{ env.LIGHT_CARD_THEME }}
           path: stats-cards/otp-authenticator-webapp.svg
       - uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -96,7 +97,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=yolo-secret&description_lines_count=2&theme=default_repocard
+          options: username=qoomon&repo=yolo-secret&description_lines_count=2&${{ env.LIGHT_CARD_THEME }}
           path: stats-cards/yolo-secretmmits.svg
       - uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -107,7 +108,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=time-timer-webapp&description_lines_count=2&theme=default_repocard
+          options: username=qoomon&repo=time-timer-webapp&description_lines_count=2&${{ env.LIGHT_CARD_THEME }}
           path: stats-cards/time-timer-webapp.svg
       - uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -118,7 +119,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=meeting-cash-creep&description_lines_count=2&theme=default_repocard
+          options: username=qoomon&repo=meeting-cash-creep&description_lines_count=2&${{ env.LIGHT_CARD_THEME }}
           path: stats-cards/meeting-cash-creep.svg
       - uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -129,7 +130,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=Jira-Issue-Card-Printer&description_lines_count=2&theme=default_repocard
+          options: username=qoomon&repo=Jira-Issue-Card-Printer&description_lines_count=2&${{ env.LIGHT_CARD_THEME }}
           path: stats-cards/Jira-Issue-Card-Printer.svg
       - uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -140,7 +141,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=banking-swift-messages-java&description_lines_count=2&theme=default_repocard
+          options: username=qoomon&repo=banking-swift-messages-java&description_lines_count=2&${{ env.LIGHT_CARD_THEME }}
           path: stats-cards/banking-swift-messages-java.svg
       - uses: readme-tools/github-readme-stats-action@v1
         with:
