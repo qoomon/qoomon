@@ -1,0 +1,30 @@
+name: My Stats Cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * Sun'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=qoomon&repo=time-timer-webapp&description_lines_count=2&theme=default_repocard
+          path: stats-cards/time-timer-webapp.svg
+      - uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=qoomon&repo=time-timer-webapp&description_lines_count=2&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
+          path: stats-cards/time-timer-webapp-dark.svg
+  
+      - uses: qoomon/actions--setup-git@v1
+      - name: Commit cards
+        run: |
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
