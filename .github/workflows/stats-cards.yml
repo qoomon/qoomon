@@ -10,6 +10,8 @@ on:
 
 jobs:
   build:
+    env:
+      DARK_CARD_THEME: title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,8 +24,8 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: gist
-          options: id=5dfcdf8eec66a051ecd85625518cfd13&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
-          path: stats-cards/conventional-commits-cheatsheet.svg
+          options: id=5dfcdf8eec66a051ecd85625518cfd13&${{ env.DARK_CARD_THEME }}
+          path: stats-cards/conventional-commits-cheatsheet-dark.svg
       
       - uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -33,7 +35,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=git-conventional-commits&description_lines_count=2&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
+          options: username=qoomon&repo=git-conventional-commits&description_lines_count=2&${{ env.DARK_CARD_THEME }}
           path: stats-cards/git-conventional-commits-dark.svg
       
       - uses: readme-tools/github-readme-stats-action@v1
@@ -44,7 +46,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=actions--access-token&description_lines_count=2&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
+          options: username=qoomon&repo=actions--access-token&description_lines_count=2&${{ env.DARK_CARD_THEME }}
           path: stats-cards/actions--access-token-dark.svg 
           
       - uses: readme-tools/github-readme-stats-action@v1
@@ -55,7 +57,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=gradle-git-versioning-plugin&description_lines_count=2&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
+          options: username=qoomon&repo=gradle-git-versioning-plugin&description_lines_count=2&${{ env.DARK_CARD_THEME }}
           path: stats-cards/gradle-git-versioning-plugin-dark.svg 
           
       - uses: readme-tools/github-readme-stats-action@v1
@@ -66,7 +68,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=docker-host&description_lines_count=2&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
+          options: username=qoomon&repo=docker-host&description_lines_count=2&${{ env.DARK_CARD_THEME }}
           path: stats-cards/docker-host-dark.svg 
           
       - uses: readme-tools/github-readme-stats-action@v1
@@ -77,7 +79,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=aws-s3-bucket-browser&description_lines_count=2&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
+          options: username=qoomon&repo=aws-s3-bucket-browser&description_lines_count=2&${{ env.DARK_CARD_THEME }}
           path: stats-cards/aws-s3-bucket-browser-dark.svg 
           
       - uses: readme-tools/github-readme-stats-action@v1
@@ -88,7 +90,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=otp-authenticator-webapp&description_lines_count=2&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
+          options: username=qoomon&repo=otp-authenticator-webapp&description_lines_count=2&${{ env.DARK_CARD_THEME }}
           path: stats-cards/otp-authenticator-webapp-dark.svg 
           
       - uses: readme-tools/github-readme-stats-action@v1
@@ -99,7 +101,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=yolo-secret&description_lines_count=2&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
+          options: username=qoomon&repo=yolo-secret&description_lines_count=2&${{ env.DARK_CARD_THEME }}
           path: stats-cards/yolo-secret-dark.svg 
           
       - uses: readme-tools/github-readme-stats-action@v1
@@ -110,7 +112,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=time-timer-webapp&description_lines_count=2&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
+          options: username=qoomon&repo=time-timer-webapp&description_lines_count=2&${{ env.DARK_CARD_THEME }}
           path: stats-cards/time-timer-webapp-dark.svg 
           
       - uses: readme-tools/github-readme-stats-action@v1
@@ -121,7 +123,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=meeting-cash-creep&description_lines_count=2&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
+          options: username=qoomon&repo=meeting-cash-creep&description_lines_count=2&${{ env.DARK_CARD_THEME }}
           path: stats-cards/meeting-cash-creep-dark.svg 
           
       - uses: readme-tools/github-readme-stats-action@v1
@@ -132,7 +134,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=Jira-Issue-Card-Printer&description_lines_count=2&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
+          options: username=qoomon&repo=Jira-Issue-Card-Printer&description_lines_count=2&${{ env.DARK_CARD_THEME }}
           path: stats-cards/Jira-Issue-Card-Printer-dark.svg 
           
       - uses: readme-tools/github-readme-stats-action@v1
@@ -143,7 +145,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&repo=banking-swift-messages-java&description_lines_count=2&title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
+          options: username=qoomon&repo=banking-swift-messages-java&description_lines_count=2&${{ env.DARK_CARD_THEME }}
           path: stats-cards/banking-swift-messages-java-dark.svg 
           
       - uses: qoomon/actions--setup-git@v1
