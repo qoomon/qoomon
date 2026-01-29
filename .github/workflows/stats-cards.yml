@@ -25,6 +25,6 @@ jobs:
       - uses: qoomon/actions--setup-git@v1
       - name: Commit cards
         run: |
-          git add profile/*.svg
+          git add stats-cards/*.svg
           git commit -m "Update README cards" || exit 0
           git push
