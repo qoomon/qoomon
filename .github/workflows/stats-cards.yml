@@ -25,7 +25,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=qoomon&git-conventional-commits&description_lines_count=2&theme=default_repocard
+          options: username=qoomon&repo=git-conventional-commits&description_lines_count=2&theme=default_repocard
           path: stats-cards/git-conventional-commits.svg
       - uses: readme-tools/github-readme-stats-action@v1
         with:
