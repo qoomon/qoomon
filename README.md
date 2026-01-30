@@ -40,13 +40,13 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Commits&theme=darkhub">
-      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Commits"></picture></a>
+        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=PullRequest&theme=darkhub">
+      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=PullRequest"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=PullRequest&theme=darkhub">
-      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=PullRequest"></picture></a>
+        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Commits&theme=darkhub">
+      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Commits"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
