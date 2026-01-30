@@ -129,26 +129,18 @@
   
   <a href="https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="stats-cards/conventional-commits-cheatsheet-dark.svg">
-    <img alt="" align="top" src="stats-cards/conventional-commits-cheatsheet.svg"></picture></a> &nbsp;
+    <img alt="" align="top" src="stats-cards/stats-cards/conventional-commits-cheatsheet.svg"></picture></a>
   
-  <br>
-
-  <a href="https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="stats-cards/conventinal-commits-cheatsheet-dark.svg">
-    <img alt="" align="top" src="stats-cards/conventinal-commits-cheatsheet.svg"></picture></a> &nbsp;
-
   <a href="https://github.com/qoomon/git-conventional-commits"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/git-conventional-commits-dark.svg">
       <img alt="" align="top" src="stats-cards/git-conventional-commits.svg"></picture></a> &nbsp;
-  
   <a href="https://github.com/qoomon/actions--access-token"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/actions--access-token-dark.svg">
       <img alt="" align="top" src="stats-cards/actions--access-token.svg"></picture></a> &nbsp;
-  
+
   <a href="https://github.com/qoomon/gradle-git-versioning-plugin"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/gradle-git-versioning-plugin-dark.svg">
       <img alt="" align="top" src="stats-cards/gradle-git-versioning-plugin.svg"></picture></a> &nbsp;
-  
   <a href="https://github.com/qoomon/docker-host"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/docker-host-dark.svg">
       <img alt="" align="top" src="stats-cards/docker-host.svg"></picture></a> &nbsp;
@@ -156,15 +148,13 @@
   <a href="https://github.com/qoomon/aws-s3-bucket-browser"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/aws-s3-bucket-browser-dark.svg">
       <img alt="" align="top" src="stats-cards/aws-s3-bucket-browser.svg"></picture></a> &nbsp;
-  
   <a href="https://github.com/qoomon/otp-authenticator-webapp"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/otp-authenticator-webapp-dark.svg">
       <img alt="" align="top" src="stats-cards/otp-authenticator-webapp.svg"></picture></a> &nbsp;
-  
+ 
   <a href="https://github.com/qoomon/yolo-secret"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/yolo-secret-dark.svg">
       <img alt="" align="top" src="stats-cards/yolo-secret.svg"></picture></a> &nbsp;
-  
   <a href="https://github.com/qoomon/time-timer-webapp"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/time-timer-webapp-dark.svg">
       <img alt="" align="top" src="stats-cards/time-timer-webapp.svg"></picture></a> &nbsp;
@@ -172,7 +162,6 @@
   <a href="https://github.com/qoomon/meeting-cash-creep"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/meeting-cash-creep-dark.svg">
       <img alt="" align="top" src="stats-cards/meeting-cash-creep.svg"></picture></a> &nbsp;
-  
   <a href="https://github.com/qoomon/Jira-Issue-Card-Printer"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/Jira-Issue-Card-Printer-dark.svg">
       <img alt="" align="top" src="stats-cards/Jira-Issue-Card-Printer.svg"></picture></a> &nbsp;
