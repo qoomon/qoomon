@@ -22,11 +22,13 @@ jobs:
           card: gist
           options: id=5dfcdf8eec66a051ecd85625518cfd13&${{ env.LIGHT_CARD_THEME }}
           path: stats-cards/conventional-commits-cheatsheet.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: gist
           options: id=5dfcdf8eec66a051ecd85625518cfd13&${{ env.DARK_CARD_THEME }}
           path: stats-cards/conventional-commits-cheatsheet-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - uses: readme-tools/github-readme-stats-action@v1
         with:
