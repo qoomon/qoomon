@@ -9,13 +9,6 @@
 </div>
 
 <div align="center">  
-  <a href="https://github.com/qoomon/starlines"><img alt="" src="https://starlines.qoo.monster/assets/qoomon"></a>
-  <a href="https://github.com/qoomon"><img height="64" src="octocat.gif"></a>
-</div>
-
-<br>
-
-<div align="center">  
   <!--- show all trophies: https://trophy.ryglcloud.net/?username=qoomon&column=-1 --->
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
@@ -72,6 +65,12 @@
 </div>
 
 <br>
+
+<div align="center">  
+  <a href="https://github.com/qoomon/starlines"><img alt="" src="https://starlines.qoo.monster/assets/qoomon"></a>
+  <a href="https://github.com/qoomon"><img height="64" src="octocat.gif"></a>
+</div>
+
 <br>
 
 <div align="center">  
