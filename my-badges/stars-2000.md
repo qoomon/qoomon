@@ -4,13 +4,13 @@
 
 Repos:
 
-* <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★332</a>
-* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★329</a>
+* <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★333</a>
+* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★330</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★259</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★176</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★179</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★150</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★144</a>
-* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★128</a>
+* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★129</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★107</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★67</a>
@@ -19,10 +19,10 @@ Repos:
 * <a href="https://github.com/qoomon/actions--parallel-steps">qoomon/actions--parallel-steps: ★29</a>
 * <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★24</a>
 * <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★19</a>
+* <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★17</a>
 * <a href="https://github.com/qoomon/actions--context">qoomon/actions--context: ★17</a>
-* <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★16</a>
 * <a href="https://github.com/qoomon/actions--setup-git">qoomon/actions--setup-git: ★15</a>
-* <a href="https://github.com/qoomon/GoogleContactsEventsToGoogleCalendarSync">qoomon/GoogleContactsEventsToGoogleCalendarSync: ★14</a>
+* <a href="https://github.com/qoomon/GoogleContactsEventsToGoogleCalendarSync">qoomon/GoogleContactsEventsToGoogleCalendarSync: ★15</a>
 * <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★11</a>
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★11</a>
 * <a href="https://github.com/qoomon/vercel-cors-proxy">qoomon/vercel-cors-proxy: ★9</a>
