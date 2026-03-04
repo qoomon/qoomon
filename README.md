@@ -68,6 +68,7 @@
 
 <div align="center">  
   <a href="https://github.com/qoomon/starlines"><img alt="" src="https://starlines.qoo.monster/assets/qoomon"></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/qoomon"><img height="64" src="octocat.gif"></a>
 </div>
 
