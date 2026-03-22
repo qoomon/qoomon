@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 57 my own repositories." title="I&apos;ve starred 57 my own repositories." width="128">
-<strong>I&apos;ve starred 57 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 32 my own repositories." title="I&apos;ve starred 32 my own repositories." width="128">
+<strong>I&apos;ve starred 32 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer</a>
@@ -34,31 +34,6 @@
 - <a href="https://github.com/qoomon/userscripts--aws-visual-account-indicator">qoomon/userscripts--aws-visual-account-indicator</a>
 - <a href="https://github.com/qoomon/chrome-tab-multiselect-extension">qoomon/chrome-tab-multiselect-extension</a>
 - <a href="https://github.com/qoomon/userscripts--disable-open-search">qoomon/userscripts--disable-open-search</a>
-- <a href="https://github.com/qoomon/chrome-tab-duplicate-extension">qoomon/chrome-tab-duplicate-extension</a>
-- <a href="https://github.com/qoomon/userscripts--jira-colored-labels">qoomon/userscripts--jira-colored-labels</a>
-- <a href="https://github.com/qoomon/userscripts--kleinanzeigen-duplicate-ad">qoomon/userscripts--kleinanzeigen-duplicate-ad</a>
-- <a href="https://github.com/qoomon/chrome-show-password-extension">qoomon/chrome-show-password-extension</a>
-- <a href="https://github.com/qoomon/chrome-search-engine-blocker-extension">qoomon/chrome-search-engine-blocker-extension</a>
-- <a href="https://github.com/qoomon/chrome-tab-shift-extension">qoomon/chrome-tab-shift-extension</a>
-- <a href="https://github.com/qoomon/chrome-tab-toggle-extension">qoomon/chrome-tab-toggle-extension</a>
-- <a href="https://github.com/qoomon/chrome-new-tab-extension">qoomon/chrome-new-tab-extension</a>
-- <a href="https://github.com/qoomon/diceware-webapp">qoomon/diceware-webapp</a>
-- <a href="https://github.com/qoomon/yolo-secret">qoomon/yolo-secret</a>
-- <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed</a>
-- <a href="https://github.com/qoomon/insomnia-plugin-hide-login">qoomon/insomnia-plugin-hide-login</a>
-- <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit</a>
-- <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command</a>
-- <a href="https://github.com/qoomon/actions--setup-git">qoomon/actions--setup-git</a>
-- <a href="https://github.com/qoomon/actions--set-env">qoomon/actions--set-env</a>
-- <a href="https://github.com/qoomon/actions">qoomon/actions</a>
-- <a href="https://github.com/qoomon/actions--create-deployment">qoomon/actions--create-deployment</a>
-- <a href="https://github.com/qoomon/sandbox">qoomon/sandbox</a>
-- <a href="https://github.com/qoomon/starlines">qoomon/starlines</a>
-- <a href="https://github.com/qoomon/GoogleContactsEventsToGoogleCalendarSync">qoomon/GoogleContactsEventsToGoogleCalendarSync</a>
-- <a href="https://github.com/qoomon/actions--context">qoomon/actions--context</a>
-- <a href="https://github.com/qoomon/actions--event-inputs">qoomon/actions--event-inputs</a>
-- <a href="https://github.com/qoomon/actions--parallel-steps">qoomon/actions--parallel-steps</a>
-- <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
