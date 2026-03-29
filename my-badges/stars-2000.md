@@ -4,19 +4,19 @@
 
 Repos:
 
-* <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★336</a>
+* <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★335</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★331</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★260</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★182</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★183</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★150</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★144</a>
-* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★136</a>
-* <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★108</a>
+* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★137</a>
+* <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★107</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★68</a>
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★44</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★39</a>
-* <a href="https://github.com/qoomon/actions--parallel-steps">qoomon/actions--parallel-steps: ★30</a>
+* <a href="https://github.com/qoomon/actions--parallel-steps">qoomon/actions--parallel-steps: ★31</a>
 * <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★24</a>
 * <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★19</a>
 * <a href="https://github.com/qoomon/actions--context">qoomon/actions--context: ★18</a>
@@ -49,7 +49,6 @@ Repos:
 * <a href="https://github.com/qoomon/threema-web-desktop-app">qoomon/threema-web-desktop-app: ★2</a>
 * <a href="https://github.com/qoomon/chrome-tab-shift-extension">qoomon/chrome-tab-shift-extension: ★2</a>
 * <a href="https://github.com/qoomon/chrome-tab-toggle-extension">qoomon/chrome-tab-toggle-extension: ★2</a>
-* <a href="https://github.com/qoomon/userscripts--jira-dependency-indicators">qoomon/userscripts--jira-dependency-indicators: ★2</a>
 * <a href="https://github.com/qoomon/userscripts--jira-colored-labels">qoomon/userscripts--jira-colored-labels: ★2</a>
 * <a href="https://github.com/qoomon/insomnia-plugin-hide-login">qoomon/insomnia-plugin-hide-login: ★2</a>
 * <a href="https://github.com/qoomon/sandbox">qoomon/sandbox: ★1</a>
@@ -60,6 +59,7 @@ Repos:
 * <a href="https://github.com/qoomon/self-signed-https-proxy">qoomon/self-signed-https-proxy: ★1</a>
 * <a href="https://github.com/qoomon/.github">qoomon/.github: ★1</a>
 * <a href="https://github.com/qoomon/chrome-tab-duplicate-extension">qoomon/chrome-tab-duplicate-extension: ★1</a>
+* <a href="https://github.com/qoomon/userscripts--jira-dependency-indicators">qoomon/userscripts--jira-dependency-indicators: ★1</a>
 * <a href="https://github.com/qoomon/userscripts--disable-open-search">qoomon/userscripts--disable-open-search: ★1</a>
 * <a href="https://github.com/qoomon/chrome-search-engine-blocker-extension">qoomon/chrome-search-engine-blocker-extension: ★1</a>
 * <a href="https://github.com/qoomon/chrome-show-password-extension">qoomon/chrome-show-password-extension: ★1</a>
