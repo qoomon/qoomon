@@ -7,7 +7,7 @@ Repos:
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★335</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★331</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★260</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★183</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★184</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★150</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★144</a>
 * <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★137</a>
@@ -16,7 +16,7 @@ Repos:
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★68</a>
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★44</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★39</a>
-* <a href="https://github.com/qoomon/actions--parallel-steps">qoomon/actions--parallel-steps: ★31</a>
+* <a href="https://github.com/qoomon/actions--parallel-steps">qoomon/actions--parallel-steps: ★32</a>
 * <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★24</a>
 * <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★19</a>
 * <a href="https://github.com/qoomon/actions--context">qoomon/actions--context: ★18</a>
@@ -25,7 +25,7 @@ Repos:
 * <a href="https://github.com/qoomon/GoogleContactsEventsToGoogleCalendarSync">qoomon/GoogleContactsEventsToGoogleCalendarSync: ★15</a>
 * <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★11</a>
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★11</a>
-* <a href="https://github.com/qoomon/vercel-cors-proxy">qoomon/vercel-cors-proxy: ★9</a>
+* <a href="https://github.com/qoomon/vercel-cors-proxy">qoomon/vercel-cors-proxy: ★10</a>
 * <a href="https://github.com/qoomon/unchecked-exceptions-java">qoomon/unchecked-exceptions-java: ★8</a>
 * <a href="https://github.com/qoomon/aws-session">qoomon/aws-session: ★6</a>
 * <a href="https://github.com/qoomon/qoomon">qoomon/qoomon: ★5</a>
