@@ -10,10 +10,13 @@ on:
 
 jobs:
   build:
+    runs-on: ubuntu-latest
     env:
       LIGHT_CARD_THEME: theme=default_repocard
       DARK_CARD_THEME: title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
-    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
     steps:
       - uses: actions/checkout@v6
 
