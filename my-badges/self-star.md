@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 16 my own repositories." title="I&apos;ve starred 16 my own repositories." width="128">
-<strong>I&apos;ve starred 16 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 21 my own repositories." title="I&apos;ve starred 21 my own repositories." width="128">
+<strong>I&apos;ve starred 21 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer</a>
@@ -18,6 +18,11 @@
 - <a href="https://github.com/qoomon/google-chrome-launcher">qoomon/google-chrome-launcher</a>
 - <a href="https://github.com/qoomon/unchecked-exceptions-java">qoomon/unchecked-exceptions-java</a>
 - <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin</a>
+- <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload</a>
+- <a href="https://github.com/qoomon/self-signed-https-proxy">qoomon/self-signed-https-proxy</a>
+- <a href="https://github.com/qoomon/aws-session">qoomon/aws-session</a>
+- <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser</a>
+- <a href="https://github.com/qoomon/threema-web-desktop-app">qoomon/threema-web-desktop-app</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
