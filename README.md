@@ -13,55 +13,55 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-      srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=LongTimeUser&theme=darkhub">
-      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=LongTimeUser"></picture></a>
+      srcset="github-profile-trophy/LongTimeUser-dark.svg">
+      <img src="github-profile-trophy/LongTimeUser.svg"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Experience&theme=darkhub">
-      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Experience"></picture></a>
+        srcset="github-profile-trophy/Experience-dark.svg">
+      <img src="github-profile-trophy/Experience.svg"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Stars&theme=darkhub">
-      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Stars"></picture></a>
+        srcset="github-profile-trophy/Stars-dark.svg">
+      <img src="github-profile-trophy/Stars.svg"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Repositories&theme=darkhub">
-      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Repositories"></picture></a>
+        srcset="github-profile-trophy/Repositories-dark.svg">
+      <img src="github-profile-trophy/Repositories.svg"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=MultiLanguage&theme=darkhub">
-      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=MultiLanguage"></picture></a>
+        srcset="github-profile-trophy/MultiLanguage-dark.svg">
+      <img src="github-profile-trophy/MultiLanguage.svg"></picture></a>
   <br>
   
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=PullRequest&theme=darkhub">
-      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=PullRequest"></picture></a>
+        srcset="github-profile-trophy/PullRequest-dark.svg">
+      <img src="github-profile-trophy/PullRequest.svg"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Commits&theme=darkhub">
-      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Commits"></picture></a>
+        srcset="github-profile-trophy/Commits-dark.svg">
+      <img src="github-profile-trophy/Commits.svg"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Issues&theme=darkhub">
-      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Issues"></picture></a>
+        srcset="github-profile-trophy/Issues-dark.svg">
+      <img src="github-profile-trophy/Issues.svg"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Followers&theme=darkhub">
-      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Followers"></picture></a>
+        srcset="github-profile-trophy/Followers-dark.svg">
+      <img src="github-profile-trophy/Followers.svg"></picture></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Reviews&theme=darkhub">
-      <img src="https://trophy.ryglcloud.net/?username=qoomon&row=1&column=1&no-frame=true&no-bg=true&title=Reviews"></picture></a>
+        srcset="github-profile-trophy/Reviews-dark.svg">
+      <img src="github-profile-trophy/Reviews.svg"></picture></a>
 </div>
 
 <br>
@@ -78,46 +78,46 @@
   
   <a href="https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="stats-cards/conventional-commits-cheatsheet-dark.svg">
-    <img alt="" align="top" src="stats-cards/stats-cards/conventional-commits-cheatsheet.svg"></picture></a>
+    <img alt="" align="top" src="stats-cards/stats-cards/conventional-commits-cheatsheet.svg.svg"></picture></a>
   
   <a href="https://github.com/qoomon/git-conventional-commits"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/git-conventional-commits-dark.svg">
-      <img alt="" align="top" src="stats-cards/git-conventional-commits.svg"></picture></a> &nbsp;
+      <img alt="" align="top" src="stats-cards/git-conventional-commits.svg.svg"></picture></a> &nbsp;
   <a href="https://github.com/qoomon/actions--access-token"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/actions--access-token-dark.svg">
-      <img alt="" align="top" src="stats-cards/actions--access-token.svg"></picture></a> &nbsp;
+      <img alt="" align="top" src="stats-cards/actions--access-token.svg.svg"></picture></a> &nbsp;
 
   <a href="https://github.com/qoomon/gradle-git-versioning-plugin"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/gradle-git-versioning-plugin-dark.svg">
-      <img alt="" align="top" src="stats-cards/gradle-git-versioning-plugin.svg"></picture></a> &nbsp;
+      <img alt="" align="top" src="stats-cards/gradle-git-versioning-plugin.svg.svg"></picture></a> &nbsp;
   <a href="https://github.com/qoomon/docker-host"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/docker-host-dark.svg">
-      <img alt="" align="top" src="stats-cards/docker-host.svg"></picture></a> &nbsp;
+      <img alt="" align="top" src="stats-cards/docker-host.svg.svg"></picture></a> &nbsp;
   
   <a href="https://github.com/qoomon/aws-s3-bucket-browser"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/aws-s3-bucket-browser-dark.svg">
-      <img alt="" align="top" src="stats-cards/aws-s3-bucket-browser.svg"></picture></a> &nbsp;
+      <img alt="" align="top" src="stats-cards/aws-s3-bucket-browser.svg.svg"></picture></a> &nbsp;
   <a href="https://github.com/qoomon/otp-authenticator-webapp"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/otp-authenticator-webapp-dark.svg">
-      <img alt="" align="top" src="stats-cards/otp-authenticator-webapp.svg"></picture></a> &nbsp;
+      <img alt="" align="top" src="stats-cards/otp-authenticator-webapp.svg.svg"></picture></a> &nbsp;
  
   <a href="https://github.com/qoomon/yolo-secret"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/yolo-secret-dark.svg">
-      <img alt="" align="top" src="stats-cards/yolo-secret.svg"></picture></a> &nbsp;
+      <img alt="" align="top" src="stats-cards/yolo-secret.svg.svg"></picture></a> &nbsp;
   <a href="https://github.com/qoomon/time-timer-webapp"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/time-timer-webapp-dark.svg">
-      <img alt="" align="top" src="stats-cards/time-timer-webapp.svg"></picture></a> &nbsp;
+      <img alt="" align="top" src="stats-cards/time-timer-webapp.svg.svg"></picture></a> &nbsp;
   
   <a href="https://github.com/qoomon/meeting-cash-creep"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/meeting-cash-creep-dark.svg">
-      <img alt="" align="top" src="stats-cards/meeting-cash-creep.svg"></picture></a> &nbsp;
+      <img alt="" align="top" src="stats-cards/meeting-cash-creep.svg.svg"></picture></a> &nbsp;
   <a href="https://github.com/qoomon/Jira-Issue-Card-Printer"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/Jira-Issue-Card-Printer-dark.svg">
-      <img alt="" align="top" src="stats-cards/Jira-Issue-Card-Printer.svg"></picture></a> &nbsp;
+      <img alt="" align="top" src="stats-cards/Jira-Issue-Card-Printer.svg.svg"></picture></a> &nbsp;
   
   <a href="https://github.com/qoomon/banking-swift-messages-java"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/banking-swift-messages-java-dark.svg">
-      <img alt="" align="top" src="stats-cards/banking-swift-messages-java.svg"></picture></a> &nbsp;
+      <img alt="" align="top" src="stats-cards/banking-swift-messages-java.svg.svg"></picture></a> &nbsp;
   
 </div>
 
