@@ -1,8 +1,8 @@
 
     <svg
-      width="880"
+      width="110"
       height="110"
-      viewBox="0 0 880 110"
+      viewBox="0 0 110 110"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
@@ -81,7 +81,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 5.84px;
+        width: 6.08px;
       }
     }
     #Commits-rank-progress{
