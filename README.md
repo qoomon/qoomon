@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">  
-  <!--- show all trophies: https://trophy.ryglcloud.net/?username=qoomon&column=-1 --->
+  <!--- show all trophies: https://github-profile-trophy.vercel.app/?username=qoomon --->
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
