@@ -12,8 +12,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      LIGHT_CARD_THEME: theme=default_repocard
-      DARK_CARD_THEME: title_color=4493f8&icon_color=8d96a0&text_color=8d96a0&bg_color=0c1117&border_color=30363e
+      LIGHT_TROPHY_THEME: default
+      DARK_TROPHY_THEME: darkhub
     permissions:
       contents: write
       
@@ -22,111 +22,111 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: LongTimeUser
-          theme: default
+          theme: ${{ env.LIGHT_TROPHY_THEME }}
           output_path: ./github-profile-trophy/LongTimeUser.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: LongTimeUser
-          theme: darkhub
+          theme: ${{ env.DARK_TROPHY_THEME }}
           output_path: ./github-profile-trophy/LongTimeUser-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Experience
-          theme: default
+          theme: ${{ env.LIGHT_TROPHY_THEME }}
           output_path: ./github-profile-trophy/Experience.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Experience
-          theme: darkhub
+          theme: ${{ env.DARK_TROPHY_THEME }}
           output_path: ./github-profile-trophy/Experience-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Stars
-          theme: default
+          theme: ${{ env.LIGHT_TROPHY_THEME }}
           output_path: ./github-profile-trophy/Stars.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Stars
-          theme: darkhub
+          theme: ${{ env.DARK_TROPHY_THEME }}
           output_path: ./github-profile-trophy/Stars-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Repositories
-          theme: default
+          theme: ${{ env.LIGHT_TROPHY_THEME }}
           output_path: ./github-profile-trophy/Repositories.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Repositories
-          theme: darkhub
+          theme: ${{ env.DARK_TROPHY_THEME }}
           output_path: ./github-profile-trophy/Repositories-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: MultiLanguage
-          theme: default
+          theme: ${{ env.LIGHT_TROPHY_THEME }}
           output_path: ./github-profile-trophy/MultiLanguage.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: MultiLanguage
-          theme: darkhub
+          theme: ${{ env.DARK_TROPHY_THEME }}
           output_path: ./github-profile-trophy/MultiLanguage-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: PullRequest
-          theme: default
+          theme: ${{ env.LIGHT_TROPHY_THEME }}
           output_path: ./github-profile-trophy/PullRequest.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: PullRequest
-          theme: darkhub
+          theme: ${{ env.DARK_TROPHY_THEME }}
           output_path: ./github-profile-trophy/PullRequest-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Commits
-          theme: default
+          theme: ${{ env.LIGHT_TROPHY_THEME }}
           output_path: ./github-profile-trophy/Commits.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Commits
-          theme: darkhub
+          theme: ${{ env.DARK_TROPHY_THEME }}
           output_path: ./github-profile-trophy/Commits-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Issues
-          theme: default
+          theme: ${{ env.LIGHT_TROPHY_THEME }}
           output_path: ./github-profile-trophy/Issues.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Issues
-          theme: darkhub
+          theme: ${{ env.DARK_TROPHY_THEME }}
           output_path: ./github-profile-trophy/Issues-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Followers
-          theme: default
+          theme: ${{ env.LIGHT_TROPHY_THEME }}
           output_path: ./github-profile-trophy/Followers.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Followers
-          theme: darkhub
+          theme: ${{ env.DARK_TROPHY_THEME }}
           output_path: ./github-profile-trophy/Followers-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Reviews
-          theme: default
+          theme: ${{ env.LIGHT_TROPHY_THEME }}
           output_path: ./github-profile-trophy/Reviews.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Reviews
-          theme: darkhub
+          theme: ${{ env.DARK_TROPHY_THEME }}
           output_path: ./github-profile-trophy/Reviews-dark.svg
 
       - uses: qoomon/actions--setup-git@v1
