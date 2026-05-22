@@ -3,63 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" 
         srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=qo̱ọmŏ̎n&fontSize=32&animation=fadeIn&fontAlignY=30&desc=%F0%9F%8C%B3%20Go%20for%20it.&descSize=12&descAlignY=46&descAlign=54.5&fontColor=fefefe">
-       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=qo̱ọmŏ̎n&fontSize=32&animation=fadeIn&fontAlignY=30&desc=%F0%9F%8C%B3%20Go%20for%20it.&descSize=12&descAlignY=46&descAlign=54.5&fontColor=1d1d1d">
-    </picture>
-  </a>
-</div>
-
-<div align="center">  
-  
-  <a href="https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="stats-cards/conventional-commits-cheatsheet-dark.svg">
-    <img alt="" align="top" src="stats-cards/stats-cards/conventional-commits-cheatsheet.svg.svg"></picture></a>
-  
-  <a href="https://github.com/qoomon/git-conventional-commits"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/git-conventional-commits-dark.svg">
-      <img alt="" align="top" src="stats-cards/git-conventional-commits.svg.svg"></picture></a> &nbsp;
-  <a href="https://github.com/qoomon/actions--access-token"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/actions--access-token-dark.svg">
-      <img alt="" align="top" src="stats-cards/actions--access-token.svg.svg"></picture></a> &nbsp;
-
-  <a href="https://github.com/qoomon/gradle-git-versioning-plugin"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/gradle-git-versioning-plugin-dark.svg">
-      <img alt="" align="top" src="stats-cards/gradle-git-versioning-plugin.svg.svg"></picture></a> &nbsp;
-  <a href="https://github.com/qoomon/docker-host"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/docker-host-dark.svg">
-      <img alt="" align="top" src="stats-cards/docker-host.svg.svg"></picture></a> &nbsp;
-  
-  <a href="https://github.com/qoomon/aws-s3-bucket-browser"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/aws-s3-bucket-browser-dark.svg">
-      <img alt="" align="top" src="stats-cards/aws-s3-bucket-browser.svg.svg"></picture></a> &nbsp;
-  <a href="https://github.com/qoomon/otp-authenticator-webapp"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/otp-authenticator-webapp-dark.svg">
-      <img alt="" align="top" src="stats-cards/otp-authenticator-webapp.svg.svg"></picture></a> &nbsp;
- 
-  <a href="https://github.com/qoomon/yolo-secret"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/yolo-secret-dark.svg">
-      <img alt="" align="top" src="stats-cards/yolo-secret.svg.svg"></picture></a> &nbsp;
-  <a href="https://github.com/qoomon/time-timer-webapp"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/time-timer-webapp-dark.svg">
-      <img alt="" align="top" src="stats-cards/time-timer-webapp.svg.svg"></picture></a> &nbsp;
-  
-  <a href="https://github.com/qoomon/meeting-cash-creep"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/meeting-cash-creep-dark.svg">
-      <img alt="" align="top" src="stats-cards/meeting-cash-creep.svg.svg"></picture></a> &nbsp;
-  <a href="https://github.com/qoomon/Jira-Issue-Card-Printer"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/Jira-Issue-Card-Printer-dark.svg">
-      <img alt="" align="top" src="stats-cards/Jira-Issue-Card-Printer.svg.svg"></picture></a> &nbsp;
-  
-  <a href="https://github.com/qoomon/banking-swift-messages-java"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/banking-swift-messages-java-dark.svg">
-      <img alt="" align="top" src="stats-cards/banking-swift-messages-java.svg.svg"></picture></a> &nbsp;
-  
-</div>
-
-<br>
-
-##
-
-<br>
+       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=qo̱ọmŏ̎n&fontSize=32&animation=fadeIn&fontAlignY=30&desc=%F0%9F%8C%B3%20Go%20for%20it.&descSize=12&descAlignY=46&descAlign=54.5&fontColor=1d1d1d"></picture></a></div>
 
 <div align="center">  
   <a href="https://github.com/qoomon/starlines"><img alt="" src="https://starlines.qoo.monster/assets/qoomon"></a>
@@ -125,6 +69,61 @@
       <img src="github-profile-trophy/Reviews.svg"></picture></a>
 </div>
 
+##
+
+<br>
+
+<div align="center">  
+  
+  <a href="https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="stats-cards/conventional-commits-cheatsheet-dark.svg">
+    <img alt="" align="top" src="stats-cards/stats-cards/conventional-commits-cheatsheet.svg.svg"></picture></a>
+  
+  <a href="https://github.com/qoomon/git-conventional-commits"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/git-conventional-commits-dark.svg">
+      <img alt="" align="top" src="stats-cards/git-conventional-commits.svg.svg"></picture></a> &nbsp;
+  <a href="https://github.com/qoomon/actions--access-token"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/actions--access-token-dark.svg">
+      <img alt="" align="top" src="stats-cards/actions--access-token.svg.svg"></picture></a> &nbsp;
+
+  <a href="https://github.com/qoomon/gradle-git-versioning-plugin"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/gradle-git-versioning-plugin-dark.svg">
+      <img alt="" align="top" src="stats-cards/gradle-git-versioning-plugin.svg.svg"></picture></a> &nbsp;
+  <a href="https://github.com/qoomon/docker-host"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/docker-host-dark.svg">
+      <img alt="" align="top" src="stats-cards/docker-host.svg.svg"></picture></a> &nbsp;
+  
+  <a href="https://github.com/qoomon/aws-s3-bucket-browser"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/aws-s3-bucket-browser-dark.svg">
+      <img alt="" align="top" src="stats-cards/aws-s3-bucket-browser.svg.svg"></picture></a> &nbsp;
+  <a href="https://github.com/qoomon/otp-authenticator-webapp"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/otp-authenticator-webapp-dark.svg">
+      <img alt="" align="top" src="stats-cards/otp-authenticator-webapp.svg.svg"></picture></a> &nbsp;
+ 
+  <a href="https://github.com/qoomon/yolo-secret"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/yolo-secret-dark.svg">
+      <img alt="" align="top" src="stats-cards/yolo-secret.svg.svg"></picture></a> &nbsp;
+  <a href="https://github.com/qoomon/time-timer-webapp"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/time-timer-webapp-dark.svg">
+      <img alt="" align="top" src="stats-cards/time-timer-webapp.svg.svg"></picture></a> &nbsp;
+  
+  <a href="https://github.com/qoomon/meeting-cash-creep"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/meeting-cash-creep-dark.svg">
+      <img alt="" align="top" src="stats-cards/meeting-cash-creep.svg.svg"></picture></a> &nbsp;
+  <a href="https://github.com/qoomon/Jira-Issue-Card-Printer"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/Jira-Issue-Card-Printer-dark.svg">
+      <img alt="" align="top" src="stats-cards/Jira-Issue-Card-Printer.svg.svg"></picture></a> &nbsp;
+  
+  <a href="https://github.com/qoomon/banking-swift-messages-java"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="stats-cards/banking-swift-messages-java-dark.svg">
+      <img alt="" align="top" src="stats-cards/banking-swift-messages-java.svg.svg"></picture></a> &nbsp;
+  
+</div>
+
+<br>
+
+##
+
 <br>
 
 <div align="center">
@@ -169,8 +168,8 @@
 
 </div>
 
-##
 <br>
+
 <div align="center">
 <a href="https://komarev.com/ghpvc"><img src="https://komarev.com/ghpvc/?username=qoomon&color=blue"></a>
 </div>
