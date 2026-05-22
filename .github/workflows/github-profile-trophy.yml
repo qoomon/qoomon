@@ -23,111 +23,111 @@ jobs:
         with:
           title: LongTimeUser
           theme: default
-          path: ./github-profile-trophy/LongTimeUser.svg
+          output_path: ./github-profile-trophy/LongTimeUser.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: LongTimeUser
           theme: darkhub
-          path: ./github-profile-trophy/LongTimeUser-dark.svg
+          output_path: ./github-profile-trophy/LongTimeUser-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Experience
           theme: default
-          path: ./github-profile-trophy/Experience.svg
+          output_path: ./github-profile-trophy/Experience.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Experience
           theme: darkhub
-          path: ./github-profile-trophy/Experience-dark.svg
+          output_path: ./github-profile-trophy/Experience-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Stars
           theme: default
-          path: ./github-profile-trophy/Stars.svg
+          output_path: ./github-profile-trophy/Stars.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Stars
           theme: darkhub
-          path: ./github-profile-trophy/Stars-dark.svg
+          output_path: ./github-profile-trophy/Stars-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Repositories
           theme: default
-          path: ./github-profile-trophy/Repositories.svg
+          output_path: ./github-profile-trophy/Repositories.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Repositories
           theme: darkhub
-          path: ./github-profile-trophy/Repositories-dark.svg
+          output_path: ./github-profile-trophy/Repositories-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: MultiLanguage
           theme: default
-          path: ./github-profile-trophy/MultiLanguage.svg
+          output_path: ./github-profile-trophy/MultiLanguage.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: MultiLanguage
           theme: darkhub
-          path: ./github-profile-trophy/MultiLanguage-dark.svg
+          output_path: ./github-profile-trophy/MultiLanguage-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: PullRequest
           theme: default
-          path: ./github-profile-trophy/PullRequest.svg
+          output_path: ./github-profile-trophy/PullRequest.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: PullRequest
           theme: darkhub
-          path: ./github-profile-trophy/PullRequest-dark.svg
+          output_path: ./github-profile-trophy/PullRequest-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Commits
           theme: default
-          path: ./github-profile-trophy/Commits.svg
+          output_path: ./github-profile-trophy/Commits.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Commits
           theme: darkhub
-          path: ./github-profile-trophy/Commits-dark.svg
+          output_path: ./github-profile-trophy/Commits-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Issues
           theme: default
-          path: ./github-profile-trophy/Issues.svg
+          output_path: ./github-profile-trophy/Issues.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Issues
           theme: darkhub
-          path: ./github-profile-trophy/Issues-dark.svg
+          output_path: ./github-profile-trophy/Issues-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Followers
           theme: default
-          path: ./github-profile-trophy/Followers.svg
+          output_path: ./github-profile-trophy/Followers.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Followers
           theme: darkhub
-          path: ./github-profile-trophy/Followers-dark.svg
+          output_path: ./github-profile-trophy/Followers-dark.svg
 
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Reviews
           theme: default
-          path: ./github-profile-trophy/Reviews.svg
+          output_path: ./github-profile-trophy/Reviews.svg
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Reviews
           theme: darkhub
-          path: ./github-profile-trophy/Reviews-dark.svg
+          output_path: ./github-profile-trophy/Reviews-dark.svg
 
       - uses: qoomon/actions--setup-git@v1
       - name: Commit cards
