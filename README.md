@@ -1,9 +1,14 @@
 <div align="center">
   <a href="https://www.qoo.monster">
     <picture>
+      <!--- light: https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=qo̱ọmŏ̎n&fontSize=32&animation=fadeIn&fontAlignY=30&desc=%F0%9F%8C%B3%20Go%20for%20it.&descSize=12&descAlignY=46&descAlign=54.5&fontColor=1d1d1d --->
+      <!--- dark: https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=qo̱ọmŏ̎n&fontSize=32&animation=fadeIn&fontAlignY=30&desc=%F0%9F%8C%B3%20Go%20for%20it.&descSize=12&descAlignY=46&descAlign=54.5&fontColor=fefefe --->
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=qo̱ọmŏ̎n&fontSize=32&animation=fadeIn&fontAlignY=30&desc=%F0%9F%8C%B3%20Go%20for%20it.&descSize=12&descAlignY=46&descAlign=54.5&fontColor=fefefe">
-       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=qo̱ọmŏ̎n&fontSize=32&animation=fadeIn&fontAlignY=30&desc=%F0%9F%8C%B3%20Go%20for%20it.&descSize=12&descAlignY=46&descAlign=54.5&fontColor=1d1d1d"></picture></a></div>
+        srcset="header-dark.svg">
+       <img src="header.svg">
+    </picture>
+  </a>
+</div>
 
 <div align="center">  
   <a href="https://github.com/qoomon/starlines"><img alt="" src="https://starlines.qoo.monster/assets/qoomon"></a>
