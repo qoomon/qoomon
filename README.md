@@ -122,10 +122,15 @@
   <a href="https://github.com/qoomon/banking-swift-messages-java"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="stats-cards/banking-swift-messages-java-dark.svg">
       <img alt="" align="top" src="stats-cards/banking-swift-messages-java.svg.svg"></picture></a> &nbsp;
-  
+
 </div>
 
 <br>
+
+
+<div align="center">
+  <a href="https://komarev.com/ghpvc"><img src="https://komarev.com/ghpvc/?username=qoomon&color=blue"></a>   
+</div>
 
 ##
 
@@ -171,10 +176,8 @@
 <a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 1 my own repositories." title="I&apos;ve starred 1 my own repositories." width="64"></a>
 <!-- my-badges end -->
 
-</div>
 
 <br>
 
-<div align="center">
-<a href="https://komarev.com/ghpvc"><img src="https://komarev.com/ghpvc/?username=qoomon&color=blue"></a>
+
 </div>
