@@ -129,7 +129,7 @@
 
 
 <div align="center">
-  <a href="https://komarev.com/ghpvc"><img src="https://komarev.com/ghpvc/?username=qoomon&color=blue"></a>   
+  <a href="https://komarev.com/ghpvc"><img src="https://komarev.com/ghpvc/?username=qoomon&color=1f6feb"></a>   
 </div>
 
 ##
