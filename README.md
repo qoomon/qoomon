@@ -125,13 +125,6 @@
 
 </div>
 
-<br>
-
-
-<div align="center">
-  <a href="https://komarev.com/ghpvc"><img src="https://komarev.com/ghpvc/?username=qoomon&color=1f6feb"></a>   
-</div>
-
 ##
 
 <br>
@@ -176,8 +169,12 @@
 <a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 1 my own repositories." title="I&apos;ve starred 1 my own repositories." width="64"></a>
 <!-- my-badges end -->
 
-
 <br>
+<br>
+
+<div align="right">
+  <a href="https://komarev.com/ghpvc"><img src="https://komarev.com/ghpvc/?username=qoomon&color=1f6feb"></a>   
+</div>
 
 
 </div>
