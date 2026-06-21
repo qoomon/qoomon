@@ -7,8 +7,8 @@ Repos:
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★337</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★333</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★263</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★192</a>
-* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★153</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★193</a>
+* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★155</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★151</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★144</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★108</a>
@@ -17,7 +17,7 @@ Repos:
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★45</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★41</a>
 * <a href="https://github.com/qoomon/actions--parallel-steps">qoomon/actions--parallel-steps: ★33</a>
-* <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★24</a>
+* <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★25</a>
 * <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★19</a>
 * <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★18</a>
 * <a href="https://github.com/qoomon/actions--context">qoomon/actions--context: ★17</a>
