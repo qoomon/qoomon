@@ -7,8 +7,8 @@ Repos:
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★337</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★333</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★263</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★193</a>
-* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★155</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★194</a>
+* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★159</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★151</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★147</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★108</a>
@@ -72,6 +72,7 @@ Repos:
 * <a href="https://github.com/qoomon/actions--event-inputs">qoomon/actions--event-inputs: ★1</a>
 * <a href="https://github.com/qoomon/actions--set-env">qoomon/actions--set-env: ★1</a>
 * <a href="https://github.com/qoomon/actions--create-deployment">qoomon/actions--create-deployment: ★1</a>
+* <a href="https://github.com/qoomon/userscript-google-search-maps-link">qoomon/userscript-google-search-maps-link: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
