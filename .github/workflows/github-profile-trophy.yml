@@ -18,22 +18,22 @@ jobs:
       
     steps:
       - uses: actions/checkout@v6
-      - parallel:
-        - uses: qoomon/github-profile-trophy@master
-          with:
-            title: LongTimeUser
-            no_frame: true
-            no_bg: true
-            theme: ${{ env.LIGHT_TROPHY_THEME }}
-            output_path: ./github-profile-trophy/LongTimeUser.svg
-        - uses: qoomon/github-profile-trophy@master
-          with:
-            title: LongTimeUser
-            no_frame: true
-            no_bg: true
-            theme: ${{ env.DARK_TROPHY_THEME }}
-            output_path: ./github-profile-trophy/LongTimeUser-dark.svg
+      - uses: qoomon/github-profile-trophy@master
+        with:
+          title: LongTimeUser
+          no_frame: true
+          no_bg: true
+          theme: ${{ env.LIGHT_TROPHY_THEME }}
+          output_path: ./github-profile-trophy/LongTimeUser.svg
+      - uses: qoomon/github-profile-trophy@master
+        with:
+          title: LongTimeUser
+          no_frame: true
+          no_bg: true
+          theme: ${{ env.DARK_TROPHY_THEME }}
+          output_path: ./github-profile-trophy/LongTimeUser-dark.svg
   
+      - parallel:
         - uses: qoomon/github-profile-trophy@master
           with:
             title: Experience
