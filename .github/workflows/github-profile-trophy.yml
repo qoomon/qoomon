@@ -18,155 +18,156 @@ jobs:
       
     steps:
       - uses: actions/checkout@v6
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: LongTimeUser
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.LIGHT_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/LongTimeUser.svg
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: LongTimeUser
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.DARK_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/LongTimeUser-dark.svg
-
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: Experience
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.LIGHT_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/Experience.svg
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: Experience
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.DARK_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/Experience-dark.svg
-
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: Stars
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.LIGHT_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/Stars.svg
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: Stars
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.DARK_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/Stars-dark.svg
-
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: Repositories
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.LIGHT_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/Repositories.svg
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: Repositories
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.DARK_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/Repositories-dark.svg
-
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: MultiLanguage
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.LIGHT_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/MultiLanguage.svg
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: MultiLanguage
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.DARK_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/MultiLanguage-dark.svg
-
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: PullRequest
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.LIGHT_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/PullRequest.svg
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: PullRequest
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.DARK_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/PullRequest-dark.svg
-
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: Commits
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.LIGHT_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/Commits.svg
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: Commits
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.DARK_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/Commits-dark.svg
-
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: Issues
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.LIGHT_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/Issues.svg
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: Issues
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.DARK_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/Issues-dark.svg
-
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: Followers
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.LIGHT_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/Followers.svg
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: Followers
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.DARK_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/Followers-dark.svg
-
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: Reviews
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.LIGHT_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/Reviews.svg
-      - uses: qoomon/github-profile-trophy@master
-        with:
-          title: Reviews
-          no_frame: true
-          no_bg: true
-          theme: ${{ env.DARK_TROPHY_THEME }}
-          output_path: ./github-profile-trophy/Reviews-dark.svg
+      - parallel:
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: LongTimeUser
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.LIGHT_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/LongTimeUser.svg
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: LongTimeUser
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.DARK_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/LongTimeUser-dark.svg
+  
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: Experience
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.LIGHT_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/Experience.svg
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: Experience
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.DARK_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/Experience-dark.svg
+  
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: Stars
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.LIGHT_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/Stars.svg
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: Stars
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.DARK_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/Stars-dark.svg
+  
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: Repositories
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.LIGHT_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/Repositories.svg
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: Repositories
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.DARK_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/Repositories-dark.svg
+  
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: MultiLanguage
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.LIGHT_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/MultiLanguage.svg
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: MultiLanguage
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.DARK_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/MultiLanguage-dark.svg
+  
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: PullRequest
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.LIGHT_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/PullRequest.svg
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: PullRequest
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.DARK_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/PullRequest-dark.svg
+  
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: Commits
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.LIGHT_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/Commits.svg
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: Commits
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.DARK_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/Commits-dark.svg
+  
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: Issues
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.LIGHT_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/Issues.svg
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: Issues
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.DARK_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/Issues-dark.svg
+  
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: Followers
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.LIGHT_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/Followers.svg
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: Followers
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.DARK_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/Followers-dark.svg
+  
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: Reviews
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.LIGHT_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/Reviews.svg
+        - uses: qoomon/github-profile-trophy@master
+          with:
+            title: Reviews
+            no_frame: true
+            no_bg: true
+            theme: ${{ env.DARK_TROPHY_THEME }}
+            output_path: ./github-profile-trophy/Reviews-dark.svg
 
       - uses: qoomon/actions--setup-git@v1
       - name: Commit cards
