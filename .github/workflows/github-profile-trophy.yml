@@ -21,7 +21,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: LongTimeUser
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.LIGHT_TROPHY_THEME }}
@@ -29,7 +28,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: LongTimeUser
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.DARK_TROPHY_THEME }}
@@ -38,7 +36,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Experience
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.LIGHT_TROPHY_THEME }}
@@ -46,7 +43,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Experience
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.DARK_TROPHY_THEME }}
@@ -55,7 +51,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Stars
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.LIGHT_TROPHY_THEME }}
@@ -63,7 +58,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Stars
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.DARK_TROPHY_THEME }}
@@ -72,7 +66,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Repositories
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.LIGHT_TROPHY_THEME }}
@@ -80,7 +73,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Repositories
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.DARK_TROPHY_THEME }}
@@ -89,7 +81,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: MultiLanguage
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.LIGHT_TROPHY_THEME }}
@@ -97,7 +88,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: MultiLanguage
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.DARK_TROPHY_THEME }}
@@ -106,7 +96,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: PullRequest
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.LIGHT_TROPHY_THEME }}
@@ -114,7 +103,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: PullRequest
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.DARK_TROPHY_THEME }}
@@ -123,7 +111,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Commits
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.LIGHT_TROPHY_THEME }}
@@ -131,7 +118,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Commits
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.DARK_TROPHY_THEME }}
@@ -140,7 +126,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Issues
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.LIGHT_TROPHY_THEME }}
@@ -148,7 +133,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Issues
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.DARK_TROPHY_THEME }}
@@ -157,7 +141,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Followers
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.LIGHT_TROPHY_THEME }}
@@ -165,7 +148,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Followers
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.DARK_TROPHY_THEME }}
@@ -174,7 +156,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Reviews
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.LIGHT_TROPHY_THEME }}
@@ -182,7 +163,6 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           title: Reviews
-          column: 1
           no_frame: true
           no_bg: true
           theme: ${{ env.DARK_TROPHY_THEME }}
