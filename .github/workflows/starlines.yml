@@ -3,6 +3,9 @@ name: My Starlines
 on:
   schedule:
     - cron: '0 0 * * 0'  # weekly
+  push:
+    paths:
+      - .github/workflows/starlines.yml
   workflow_dispatch:
 
 jobs:
