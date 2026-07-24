@@ -1,0 +1,28 @@
+name: My Starlines
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # weekly
+  workflow_dispatch:
+
+jobs:
+  starline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: qoomon/starlines@main
+        with: 
+         resource: qoomon
+          
+      - uses: qoomon/starlines@main
+        with:
+          resource: qoomon/5dfcdf8eec66a051ecd85625518cfd13@gist
+
+      - uses: qoomon/actions--setup-git@v1
+      - run: |
+          git add starlines
+          git commit -m "chore: update starlines" || true
+          git push 
