@@ -16,10 +16,12 @@ jobs:
       - uses: qoomon/starlines@main
         with: 
          resource: qoomon
+         github-token: ${{ secrets.ACCESS_TOKEN }}
           
       - uses: qoomon/starlines@main
         with:
           resource: qoomon/5dfcdf8eec66a051ecd85625518cfd13@gist
+          github-token: ${{ secrets.ACCESS_TOKEN }}
 
       - uses: qoomon/actions--setup-git@v1
       - run: |
