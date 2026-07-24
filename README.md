@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">  
-  <a href="https://github.com/qoomon/starlines"><img alt="" src="https://starlines.qoo.monster/assets/qoomon"></a>
+  <a href="https://github.com/qoomon/starlines"><img alt="" src="https://raw.githubusercontent.com/qoomon/qoomon/refs/heads/main/starlines/qoomon/starline.svg"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/qoomon"><img height="64" src="octocat.gif"></a>
 </div>
