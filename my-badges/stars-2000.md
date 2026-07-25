@@ -4,14 +4,14 @@
 
 Repos:
 
-* <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★338</a>
-* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★334</a>
+* <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★339</a>
+* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★335</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★264</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★196</a>
-* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★162</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★198</a>
+* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★165</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★151</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★147</a>
-* <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★108</a>
+* <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★109</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★67</a>
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★45</a>
@@ -34,8 +34,8 @@ Repos:
 * <a href="https://github.com/qoomon/chrome-user-scripts">qoomon/chrome-user-scripts: ★5</a>
 * <a href="https://github.com/qoomon/aws-ec2-ssh-iam">qoomon/aws-ec2-ssh-iam: ★4</a>
 * <a href="https://github.com/qoomon/chrome-tab-multiselect-extension">qoomon/chrome-tab-multiselect-extension: ★4</a>
+* <a href="https://github.com/qoomon/meeting-cash-creep">qoomon/meeting-cash-creep: ★4</a>
 * <a href="https://github.com/qoomon/actions--publish-to-github-pages">qoomon/actions--publish-to-github-pages: ★3</a>
-* <a href="https://github.com/qoomon/meeting-cash-creep">qoomon/meeting-cash-creep: ★3</a>
 * <a href="https://github.com/qoomon/userscripts--aws-visual-account-indicator">qoomon/userscripts--aws-visual-account-indicator: ★3</a>
 * <a href="https://github.com/qoomon/yolo-secret">qoomon/yolo-secret: ★3</a>
 * <a href="https://github.com/qoomon/domain-value-java">qoomon/domain-value-java: ★2</a>
