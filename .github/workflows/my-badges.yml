@@ -13,4 +13,4 @@ jobs:
         uses: my-badges/my-badges@master
         with:
           compact: true
-          token: ${{ secrets.ASSES_TOKEN }}
+          token: ${{ secrets.ACCESS_TOKEN }}
