@@ -12,4 +12,5 @@ jobs:
       - name: Update My Badges
         uses: my-badges/my-badges@master
         with:
-          compact: true    
+          compact: true
+          token: ${{ secrets.ASSES_TOKEN }}
