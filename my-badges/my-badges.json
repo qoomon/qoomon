@@ -129,7 +129,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 3554 times)\n2. readme.md (used 1431 times)\n3. bump (used 1293 times)\n4. merge (used 836 times)\n5. request (used 772 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 3564 times)\n2. readme.md (used 1446 times)\n3. bump (used 1293 times)\n4. merge (used 836 times)\n5. request (used 772 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -241,7 +241,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/starlines/commit/ea90ab4efc5b91a2f230bb59401424c017618114\">ea90ab4</a>\n- <a href=\"https://github.com/qoomon/starlines/commit/a7bd51df8189aca09e04875ea5b6fe8b1f40b314\">a7bd51d</a>\n- <a href=\"https://github.com/qoomon/github-dashboards/commit/be6b48ab25f956818a86205eb3c431434ff54ea0\">be6b48a</a>\n- <a href=\"https://github.com/qoomon/github-dashboards/commit/53b408d866e8a604e2e38ceb3ae2e8f2935b8778\">53b408d</a>\n- <a href=\"https://github.com/qoomon/sandbox/commit/6a832c90d6fdf740b8d4deebb0353c60f94b5882\">6a832c9</a>\n- <a href=\"https://github.com/qoomon/sandbox/commit/84640edcacfe6e0c18c2ae04cd8ebb3906940184\">84640ed</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/qoomon/actions--context/commit/b874a53aa0f619eb4de17c5e66b32ef540ad8fc0\">b874a53</a>\n- <a href=\"https://github.com/qoomon/actions--create-commit/commit/536e1553db89099aa54b538130d14be09f68b9bb\">536e155</a>\n- <a href=\"https://github.com/qoomon/maven-git-versioning-extension/commit/9f022c298b440304747cee1b5008f5b72d9886e3\">9f022c2</a>\n- <a href=\"https://github.com/qoomon/zsh-lazyload/commit/59ff1a085c0e6d99dc6a5ab696973d31881a4457\">59ff1a0</a>\n- <a href=\"https://github.com/qoomon/aws-ssm-ssh-proxy-command/commit/0bc697f96206825c9ccc3f217c4517a22923b4ba\">0bc697f</a>\n- <a href=\"https://github.com/qoomon/smart-life-webapp/commit/8ee1d8a356aa2750ddaba7f94429f635856a17b5\">8ee1d8a</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
