@@ -2,7 +2,7 @@ name: My Starlines
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # weekly
+    - cron: '0 0 * * *'  # daily
   push:
     paths:
       - .github/workflows/starlines.yml
