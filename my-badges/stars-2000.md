@@ -5,10 +5,10 @@
 Repos:
 
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★339</a>
-* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★335</a>
-* <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★264</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★198</a>
-* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★165</a>
+* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★336</a>
+* <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★263</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★199</a>
+* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★166</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★151</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★147</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★109</a>
@@ -18,7 +18,7 @@ Repos:
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★41</a>
 * <a href="https://github.com/qoomon/actions--parallel-steps">qoomon/actions--parallel-steps: ★34</a>
 * <a href="https://github.com/qoomon/my-zsh">qoomon/my-zsh: ★25</a>
-* <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★19</a>
+* <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★21</a>
 * <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★18</a>
 * <a href="https://github.com/qoomon/actions--context">qoomon/actions--context: ★18</a>
 * <a href="https://github.com/qoomon/actions--setup-git">qoomon/actions--setup-git: ★15</a>
