@@ -5,12 +5,12 @@
 Repos:
 
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★339</a>
-* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★338</a>
+* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★339</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★263</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★200</a>
-* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★166</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★210</a>
+* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★167</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★151</a>
-* <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★147</a>
+* <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★148</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★109</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
 * <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★67</a>
@@ -25,7 +25,7 @@ Repos:
 * <a href="https://github.com/qoomon/GoogleContactsEventsToGoogleCalendarSync">qoomon/GoogleContactsEventsToGoogleCalendarSync: ★15</a>
 * <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★11</a>
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★11</a>
-* <a href="https://github.com/qoomon/vercel-cors-proxy">qoomon/vercel-cors-proxy: ★10</a>
+* <a href="https://github.com/qoomon/vercel-cors-proxy">qoomon/vercel-cors-proxy: ★11</a>
 * <a href="https://github.com/qoomon/unchecked-exceptions-java">qoomon/unchecked-exceptions-java: ★8</a>
 * <a href="https://github.com/qoomon/aws-session">qoomon/aws-session: ★6</a>
 * <a href="https://github.com/qoomon/actions">qoomon/actions: ★6</a>
@@ -73,6 +73,7 @@ Repos:
 * <a href="https://github.com/qoomon/actions--set-env">qoomon/actions--set-env: ★1</a>
 * <a href="https://github.com/qoomon/actions--create-deployment">qoomon/actions--create-deployment: ★1</a>
 * <a href="https://github.com/qoomon/userscript-google-search-maps-link">qoomon/userscript-google-search-maps-link: ★1</a>
+* <a href="https://github.com/qoomon/actions--create-comment">qoomon/actions--create-comment: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
