@@ -7,13 +7,13 @@ Repos:
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★339</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★339</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★263</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★210</a>
-* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★167</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★214</a>
+* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★168</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★151</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★148</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★109</a>
 * <a href="https://github.com/qoomon/Jira-Issue-Card-Printer">qoomon/Jira-Issue-Card-Printer: ★70</a>
-* <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★67</a>
+* <a href="https://github.com/qoomon/smart-life-webapp">qoomon/smart-life-webapp: ★68</a>
 * <a href="https://github.com/qoomon/banking-swift-messages-java">qoomon/banking-swift-messages-java: ★45</a>
 * <a href="https://github.com/qoomon/time-timer-webapp">qoomon/time-timer-webapp: ★41</a>
 * <a href="https://github.com/qoomon/actions--parallel-steps">qoomon/actions--parallel-steps: ★34</a>
@@ -21,8 +21,8 @@ Repos:
 * <a href="https://github.com/qoomon/actions--create-commit">qoomon/actions--create-commit: ★21</a>
 * <a href="https://github.com/qoomon/gmail-rss-feed">qoomon/gmail-rss-feed: ★18</a>
 * <a href="https://github.com/qoomon/actions--context">qoomon/actions--context: ★18</a>
+* <a href="https://github.com/qoomon/GoogleContactsEventsToGoogleCalendarSync">qoomon/GoogleContactsEventsToGoogleCalendarSync: ★16</a>
 * <a href="https://github.com/qoomon/actions--setup-git">qoomon/actions--setup-git: ★15</a>
-* <a href="https://github.com/qoomon/GoogleContactsEventsToGoogleCalendarSync">qoomon/GoogleContactsEventsToGoogleCalendarSync: ★15</a>
 * <a href="https://github.com/qoomon/zjump">qoomon/zjump: ★11</a>
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★11</a>
 * <a href="https://github.com/qoomon/vercel-cors-proxy">qoomon/vercel-cors-proxy: ★11</a>
@@ -74,6 +74,7 @@ Repos:
 * <a href="https://github.com/qoomon/actions--create-deployment">qoomon/actions--create-deployment: ★1</a>
 * <a href="https://github.com/qoomon/userscript-google-search-maps-link">qoomon/userscript-google-search-maps-link: ★1</a>
 * <a href="https://github.com/qoomon/actions--create-comment">qoomon/actions--create-comment: ★1</a>
+* <a href="https://github.com/qoomon/amazon-spendings-cockpit">qoomon/amazon-spendings-cockpit: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
