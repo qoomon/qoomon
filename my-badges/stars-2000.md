@@ -8,7 +8,7 @@ Repos:
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★339</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★264</a>
 * <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★215</a>
-* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★167</a>
+* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★168</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★151</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★148</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★109</a>
@@ -50,6 +50,7 @@ Repos:
 * <a href="https://github.com/qoomon/chrome-tab-shift-extension">qoomon/chrome-tab-shift-extension: ★2</a>
 * <a href="https://github.com/qoomon/chrome-tab-toggle-extension">qoomon/chrome-tab-toggle-extension: ★2</a>
 * <a href="https://github.com/qoomon/userscripts--jira-colored-labels">qoomon/userscripts--jira-colored-labels: ★2</a>
+* <a href="https://github.com/qoomon/xbar-colima-status">qoomon/xbar-colima-status: ★2</a>
 * <a href="https://github.com/qoomon/insomnia-plugin-hide-login">qoomon/insomnia-plugin-hide-login: ★2</a>
 * <a href="https://github.com/qoomon/sandbox">qoomon/sandbox: ★1</a>
 * <a href="https://github.com/qoomon/cdn">qoomon/cdn: ★1</a>
@@ -63,7 +64,6 @@ Repos:
 * <a href="https://github.com/qoomon/userscripts--disable-open-search">qoomon/userscripts--disable-open-search: ★1</a>
 * <a href="https://github.com/qoomon/chrome-search-engine-blocker-extension">qoomon/chrome-search-engine-blocker-extension: ★1</a>
 * <a href="https://github.com/qoomon/chrome-show-password-extension">qoomon/chrome-show-password-extension: ★1</a>
-* <a href="https://github.com/qoomon/xbar-colima-status">qoomon/xbar-colima-status: ★1</a>
 * <a href="https://github.com/qoomon/diceware-webapp">qoomon/diceware-webapp: ★1</a>
 * <a href="https://github.com/qoomon/actions--template">qoomon/actions--template: ★1</a>
 * <a href="https://github.com/qoomon/userscripts--bypass-safe-links">qoomon/userscripts--bypass-safe-links: ★1</a>
