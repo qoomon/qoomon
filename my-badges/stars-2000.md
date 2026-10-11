@@ -4,11 +4,11 @@
 
 Repos:
 
-* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★340</a>
 * <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★339</a>
+* <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★339</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★264</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★221</a>
-* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★170</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★223</a>
+* <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★171</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★152</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★148</a>
 * <a href="https://github.com/qoomon/gradle-git-versioning-plugin">qoomon/gradle-git-versioning-plugin: ★109</a>
@@ -27,8 +27,8 @@ Repos:
 * <a href="https://github.com/qoomon/zgem">qoomon/zgem: ★11</a>
 * <a href="https://github.com/qoomon/vercel-cors-proxy">qoomon/vercel-cors-proxy: ★11</a>
 * <a href="https://github.com/qoomon/unchecked-exceptions-java">qoomon/unchecked-exceptions-java: ★10</a>
+* <a href="https://github.com/qoomon/actions">qoomon/actions: ★7</a>
 * <a href="https://github.com/qoomon/aws-session">qoomon/aws-session: ★6</a>
-* <a href="https://github.com/qoomon/actions">qoomon/actions: ★6</a>
 * <a href="https://github.com/qoomon/qoomon">qoomon/qoomon: ★5</a>
 * <a href="https://github.com/qoomon/userscripts--kleinanzeigen-duplicate-ad">qoomon/userscripts--kleinanzeigen-duplicate-ad: ★5</a>
 * <a href="https://github.com/qoomon/chrome-user-scripts">qoomon/chrome-user-scripts: ★5</a>

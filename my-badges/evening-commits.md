@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/qoomon/maven-git-versioning-extension/commit/b88c25300f56e483f73c75e41df97c7cc4f9ebc9">b88c253</a>
+- <a href="https://github.com/qoomon/maven-git-versioning-extension/commit/0c8e702e72fae6c3564afe2761dcffa0d03ca5b9">0c8e702</a>
+- <a href="https://github.com/qoomon/maven-git-versioning-extension/commit/e140158e985aeefe038c40b41bf118687aa96ced">e140158</a>
+- <a href="https://github.com/qoomon/maven-git-versioning-extension/commit/1830294d748a67737eee6fe71903832e9d1cce72">1830294</a>
+- <a href="https://github.com/qoomon/starlines/commit/f1ac975e5b6031a99fe0333e8ad3a942c6d7595b">f1ac975</a>
 - <a href="https://github.com/qoomon/actions--access-token/commit/d569d55bfeb1d112fac868d950f67d40554a3789">d569d55</a>
-- <a href="https://github.com/qoomon/actions--create-deployment/commit/2574be524966df7e159e0cb8c8564b739a5f9987">2574be5</a>
-- <a href="https://github.com/qoomon/unchecked-exceptions-java/commit/03755a8f72e2019c3191584d4d2a3a74837273ab">03755a8</a>
-- <a href="https://github.com/qoomon/actions--context/commit/b874a53aa0f619eb4de17c5e66b32ef540ad8fc0">b874a53</a>
-- <a href="https://github.com/qoomon/actions--create-commit/commit/536e1553db89099aa54b538130d14be09f68b9bb">536e155</a>
-- <a href="https://github.com/qoomon/maven-git-versioning-extension/commit/9f022c298b440304747cee1b5008f5b72d9886e3">9f022c2</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
