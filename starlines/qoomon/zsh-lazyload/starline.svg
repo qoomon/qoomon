@@ -1,6 +1,6 @@
 <svg width="200" height="50" viewBox="0 0 210 50" xmlns="http://www.w3.org/2000/svg">
     <!-- 152 stargazers -->
-    <!-- created at Sun Oct 11 2026 04:26:06 GMT+0000 (Coordinated Universal Time) -->
+    <!-- created at Mon Oct 12 2026 04:42:10 GMT+0000 (Coordinated Universal Time) -->
     <defs>
         <linearGradient id="stroke" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop stop-color="#3023AE" offset="0%"/>
@@ -19,7 +19,7 @@
             from="411.7075085699411" to="411.7075085699411"/>
     </path>
     <circle r="4" cx="5" cy="46" fill="#3023AE"/>
-    <circle r="4" cx="205" cy="33.284290343794154" fill="#C86DD7" opacity="0">
+    <circle r="4" cx="205" cy="33.2842903437945" fill="#C86DD7" opacity="0">
         <animate attributeName="opacity"
             from="0" to="1" dur="0.1s" begin="2.2s" fill="freeze"/>
     </circle>
