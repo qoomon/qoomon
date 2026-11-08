@@ -4,10 +4,10 @@
 
 Repos:
 
-* <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★341</a>
+* <a href="https://github.com/qoomon/maven-git-versioning-extension">qoomon/maven-git-versioning-extension: ★340</a>
 * <a href="https://github.com/qoomon/aws-s3-bucket-browser">qoomon/aws-s3-bucket-browser: ★339</a>
 * <a href="https://github.com/qoomon/aws-ssm-ssh-proxy-command">qoomon/aws-ssm-ssh-proxy-command: ★264</a>
-* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★224</a>
+* <a href="https://github.com/qoomon/actions--access-token">qoomon/actions--access-token: ★225</a>
 * <a href="https://github.com/qoomon/starlines">qoomon/starlines: ★176</a>
 * <a href="https://github.com/qoomon/zsh-lazyload">qoomon/zsh-lazyload: ★152</a>
 * <a href="https://github.com/qoomon/otp-authenticator-webapp">qoomon/otp-authenticator-webapp: ★147</a>
