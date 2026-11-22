@@ -13,7 +13,7 @@
 * <a href="https://github.com/mnin/coinbase-moneymoney/issues/20">👍</a>
 * <a href="https://github.com/nektos/act/issues/2740">👀</a>
 * <a href="https://github.com/clipperz/password-manager/issues/127">👍</a>
-* <a href="https://github.com/dwarvesf/hidden/issues/99">👍</a>
+* <a href="https://github.com/consolelabs/hidden/issues/99">👍</a>
 * <a href="https://github.com/assertj/assertj/pull/1460">🎉</a>
 * <a href="https://github.com/mockk/mockk/pull/426">👍</a>
 * <a href="https://github.com/antonmedv/spark/pull/9">👀</a>
